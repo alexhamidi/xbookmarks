@@ -1,45 +1,2723 @@
 {
-  "lastSynced": "2026-02-06T19:05:38.551Z",
+  "lastSynced": "2026-02-06T21:02:33.298Z",
   "data": [
     {
-      "created_at": "2026-02-06T00:00:27.000Z",
+      "edit_history_tweet_ids": [
+        "2019834387173712276"
+      ],
+      "created_at": "2026-02-06T18:03:39.000Z",
+      "text": "11 AI interns are ready to build this summer\n\nI’ll share the full list on Monday\n\nFill this form out if you want recruiters to contact you (get your pitch down) https://t.co/cXby1y2ZI2 https://t.co/K6lWphhR7z",
+      "author_id": "240008974",
+      "id": "2019834387173712276"
+    },
+    {
       "edit_history_tweet_ids": [
         "2019561790430962070"
       ],
-      "author_id": "1487649061717123076",
+      "created_at": "2026-02-06T00:00:27.000Z",
       "text": "Imagine having beef with this guy and he starts carving your face into clay https://t.co/YjbXaQR3op",
+      "author_id": "1487649061717123076",
       "id": "2019561790430962070"
     },
     {
-      "created_at": "2026-02-05T20:04:54.000Z",
       "edit_history_tweet_ids": [
         "2019502511934304482"
       ],
-      "author_id": "1932454145199570944",
+      "created_at": "2026-02-05T20:04:54.000Z",
       "text": "Naval Ravikant: \"The future will be almost all startups.\" https://t.co/PHNeAi6lXV",
+      "author_id": "1932454145199570944",
       "id": "2019502511934304482"
     },
     {
-      "created_at": "2026-02-06T01:39:38.000Z",
       "edit_history_tweet_ids": [
         "2019586750621094145"
       ],
-      "author_id": "369777416",
+      "created_at": "2026-02-06T01:39:38.000Z",
       "text": "If you are around SF First Thursdays today, we are giving away gold ⚱️(like 1g of 24k gold for each qualified registrant*)\n\nOur office is right by 2nd and Mission Street overlooking the party. See the QR code on the right window!\n\nThe main requirements are that you have use cases https://t.co/4hMkZtyRfw",
+      "author_id": "369777416",
       "id": "2019586750621094145"
     },
     {
-      "created_at": "2026-02-06T05:32:39.000Z",
       "edit_history_tweet_ids": [
         "2019645393336951162"
       ],
-      "author_id": "1937254069040717824",
+      "created_at": "2026-02-06T05:32:39.000Z",
       "text": "we ended up top 5 at the @openai codex hackathon!! ($10,000)\n\ngrateful to @sama and @gdb for the opportunity. we had the chance to present $OPAL to an incredible audience and share what we’ve been building.\n\nexcited for what’s ahead - big things coming soon 👀 https://t.co/9GQVRyw1xY",
+      "author_id": "1937254069040717824",
       "id": "2019645393336951162"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019613322845516077"
+      ],
+      "created_at": "2026-02-06T03:25:13.000Z",
+      "text": "skipped my midterm and failed my class to talk to @sama about what I built at the @OpenAI hackathon.\n\nwe’re currently top 5, waiting on results.\n\nsome things are more important than a letter grade.\n\n@qtzx06 @stpnhh @f1eepe \n\n(video coming soon) https://t.co/JxGiSY2ZSZ",
+      "author_id": "1973831180958224384",
+      "id": "2019613322845516077"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019575548452733299"
+      ],
+      "created_at": "2026-02-06T00:55:07.000Z",
+      "text": "anthropic deprecated forced prefilling of assistant messages in the opus 4.6 release\n\nwe used this at ramp to guarantee correct json - \n\nwhenever the model diverged from correct json structure, we would reattempt with a *correct* json prefix and let the model fill in the rest of https://t.co/kZSfka7l1j",
+      "author_id": "2933752790",
+      "id": "2019575548452733299"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019517780433989845"
+      ],
+      "created_at": "2026-02-05T21:05:34.000Z",
+      "text": "Crazy pay packages are not just for AI researchers. It's come to data labeling. This week @Mercor offered sales and project leads at @micro1_ai signing bonuses of $500k - $2m in CASH. These are early 20-somethings that already make $1m+ a year!\nhttps://t.co/NxXxRn5DBI https://t.co/RJ487VwBpH",
+      "author_id": "15656406",
+      "id": "2019517780433989845"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019481188910661891"
+      ],
+      "created_at": "2026-02-05T18:40:10.000Z",
+      "text": "…. Unless they are from @AnthropicAI. Heard ~3 people have left Anthropic’s pretraining team since formation. A culture that needs to be studied! https://t.co/O5XjdYXVJW",
+      "author_id": "2503070893",
+      "id": "2019481188910661891"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019090953206657395"
+      ],
+      "created_at": "2026-02-04T16:49:30.000Z",
+      "text": "The age-old struggle of \"I just have to lock in\" (this time, John Adams) https://t.co/LblBsEJvGb",
+      "author_id": "1092374611",
+      "id": "2019090953206657395"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019426057527644644"
+      ],
+      "created_at": "2026-02-05T15:01:05.000Z",
+      "text": "One cold DM changed my life:\n\nFive years ago, @GavinNachbar &amp; I had applied to the @southpkcommons Founder Fellowship and had an interview coming up.\n\nI (cold) DM'd someone I respected online and they helped us prepare for the interview.\n\nWith their prep, we nailed the interview https://t.co/t1ISYkrKxs",
+      "author_id": "92561391",
+      "id": "2019426057527644644"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019478632532472017"
+      ],
+      "created_at": "2026-02-05T18:30:00.000Z",
+      "text": "we have an internal codex usage leaderboard and karel is like 10xing everyone else on our team\n\nsome good tips here on his 5.3 usage https://t.co/hl037DYnAs",
+      "author_id": "1261374810254454784",
+      "id": "2019478632532472017"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018999552796442770",
+        "2018999652125970639"
+      ],
+      "created_at": "2026-02-04T10:46:42.000Z",
+      "text": "I don’t think women understand that men dream all their lives about this happening to them for real. The men are yearning for adventure https://t.co/by1nTRdykB",
+      "author_id": "1458535891375427584",
+      "id": "2018999652125970639"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019262112250622246"
+      ],
+      "created_at": "2026-02-05T04:09:38.000Z",
+      "text": "It is possible to get Genie 3 to make worlds that are visually interesting.\n\nI have been using images I generated in Midjourney of vast megastructures &amp; odd cities in various styles. After 20 seconds I can freely wander around them. (Yes, I controlled the cat in the first scene) https://t.co/1SNSVYZiUp",
+      "author_id": "39125788",
+      "id": "2019262112250622246"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019051177099530392"
+      ],
+      "created_at": "2026-02-04T14:11:27.000Z",
+      "text": "This 57 minute conversation with the founder of Palantir is literally worth more than reading 20 books:  https://t.co/yHAmZzygc2",
+      "author_id": "1675888265835040768",
+      "id": "2019051177099530392"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019224403343733062"
+      ],
+      "created_at": "2026-02-05T01:39:47.000Z",
+      "text": "i'm hosting a series of party called spin club. \n\nwe will open a sealed vinyl record, put it on, and drink a lot of wine.\n\nvinyls degrade slightly every time they're played. there's nothing like a new record.\n\nif you want to come, shoot me a dm.",
+      "author_id": "61344715",
+      "id": "2019224403343733062"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019074021594177873"
+      ],
+      "created_at": "2026-02-04T15:42:13.000Z",
+      "text": "Elon Musk is worth $852B. He is now richer than any person in recorded history, including prominent figures like Mansa Musa and John D. Rockefeller\n\nProtect Elon Musk at all costs!\nhttps://t.co/uyFxf3Ahoh https://t.co/br40gC5uK6",
+      "author_id": "1614879930885574656",
+      "id": "2019074021594177873"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018725337652473957"
+      ],
+      "created_at": "2026-02-03T16:36:41.000Z",
+      "text": "We built a \"Wikipedia for Careers.\"\n\n- Get personalized job recs &amp; compare career paths over decades\n- Find 100s of job postings and training programs in your local area\n- Compare AI resilience scores to understand career trajectories\n\n100% free and open source. https://t.co/Coxs8IxkqE",
+      "author_id": "2309465642",
+      "id": "2018725337652473957"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018852718522335589"
+      ],
+      "created_at": "2026-02-04T01:02:51.000Z",
+      "text": "climbing a mountain is very different from walking a road - mountains turn steps into altitude - a form of potential energy - the work you spend is saved and can be released at any time - climbing makes you stronger - and even tossing a stone takes on the power of your attitude",
+      "author_id": "535358285",
+      "id": "2018852718522335589"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019105973483491668"
+      ],
+      "created_at": "2026-02-04T17:49:11.000Z",
+      "text": "@aaron_epstein And the one that produced Sergey Brin.",
+      "author_id": "183749519",
+      "id": "2019105973483491668"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019102110189768947"
+      ],
+      "created_at": "2026-02-04T17:33:50.000Z",
+      "text": "Packed house for an off the record talk on startups at UMD, which has the largest CS program in the country! https://t.co/4jvnMiIFHW",
+      "author_id": "28612255",
+      "id": "2019102110189768947"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019075113207918915"
+      ],
+      "created_at": "2026-02-04T15:46:34.000Z",
+      "text": "If you squint a bit, Epstein was kinda sorta proposing transformers... https://t.co/oWHgGtX7wZ",
+      "author_id": "1184092367952977921",
+      "id": "2019075113207918915"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018737962713047146"
+      ],
+      "created_at": "2026-02-03T17:26:51.000Z",
+      "text": "🚀Calling all university students! 📣\n\nWe are currently hiring for our largest summer intern cohort ever! Over 100 interns across all teams. Come shape the future of mobility with Zoox.\n\nApplications are open now through mid-March.\n\n🔗Apply now: https://t.co/Nhe5kda2WB https://t.co/BSpuffd4TZ",
+      "author_id": "887406091457318912",
+      "id": "2018737962713047146"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018878254275575824"
+      ],
+      "created_at": "2026-02-04T02:44:19.000Z",
+      "text": "某Anthr⚪︎picの給料の噂を聞きましたが、ガチで羨ましい。転職させてください",
+      "author_id": "3958998014",
+      "id": "2018878254275575824"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018385944530108905",
+        "2018388163425972507"
+      ],
+      "created_at": "2026-02-02T18:16:52.000Z",
+      "text": "if you’re reading this you should probably apply to join interact! doesn’t matter where you live, what you do, who you are: so long as you create or think about interesting things and are 19-23 https://t.co/rvRB2MDm30",
+      "author_id": "998575387067142144",
+      "id": "2018388163425972507"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018778637584257159"
+      ],
+      "created_at": "2026-02-03T20:08:28.000Z",
+      "text": "Holy, traditional game engines are actually cooked. World models will change everything. This runs locally and has real control to make real games. https://t.co/UvTUZQWrT6",
+      "author_id": "9085062",
+      "id": "2018778637584257159"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018912614563373237",
+        "2018912695073083804"
+      ],
+      "created_at": "2026-02-04T05:01:10.000Z",
+      "text": "my new hobby is befriending people with exceptional taste and unique worldviews. looking for the most tasteful (don't have to be the best, just different) papers/art/poetry/screenplay/plays/philosophical discourses and then using my reach to reach out to them and getting on a",
+      "author_id": "847088079781478404",
+      "id": "2018912695073083804"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018920862108545524"
+      ],
+      "created_at": "2026-02-04T05:33:37.000Z",
+      "text": "POV: you are the last natty engineer who refuses to vibe code while everyone else learned to stop worrying and embrace the slop https://t.co/lFnyjTu7qK",
+      "author_id": "1556550048862928898",
+      "id": "2018920862108545524"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018919553963880613"
+      ],
+      "created_at": "2026-02-04T05:28:26.000Z",
+      "text": "UPDATE: zero people have solved this https://t.co/jemBRFQTqu",
+      "author_id": "3222018178",
+      "id": "2018919553963880613"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018910566354493528"
+      ],
+      "created_at": "2026-02-04T04:52:43.000Z",
+      "text": "@AutismCapital Agreed 😂 https://t.co/5VfVm4Boo2",
+      "author_id": "3098251212",
+      "id": "2018910566354493528"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018761542741688504"
+      ],
+      "created_at": "2026-02-03T19:00:33.000Z",
+      "text": "Magnesium will show you her in your dreams just to mess with you https://t.co/tcaEtU7nJL https://t.co/1z67xvtDgj",
+      "author_id": "2598018877",
+      "id": "2018761542741688504"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018856531153096932"
+      ],
+      "created_at": "2026-02-04T01:18:00.000Z",
+      "text": "there is no one on this planet that can convince me  modafinil is not a wonder drug and the fact that you can get it online is actually horrifying when you consider your competition is on this shit https://t.co/beCUkSbgpQ",
+      "author_id": "1764772387600379904",
+      "id": "2018856531153096932"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018827248414109767"
+      ],
+      "created_at": "2026-02-03T23:21:38.000Z",
+      "text": "Many of us thought Travis was gonna be the second kanye when this dropped https://t.co/7wT2zVxY68",
+      "author_id": "1458943027079176204",
+      "id": "2018827248414109767"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017922545563902071"
+      ],
+      "created_at": "2026-02-01T11:26:40.000Z",
+      "text": "We built a Diffusion World Model you can play in.\n\nEvery frame AI generated in real-time.\nEvery action logged as training data.\n\nTeaching Opal to navigate worlds autonomously.\nAnd we need your gameplay to train it.\n\n$OPAL needs you: https://t.co/W2rYBPF0gp. https://t.co/VUTiHdMu1p",
+      "author_id": "2013733275194552320",
+      "id": "2017922545563902071"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018670418270298570"
+      ],
+      "created_at": "2026-02-03T12:58:27.000Z",
+      "text": "@adcock_brett my agent was able to create a sub-3s run. tips:\n\n- you can change the way chrome handles animation/internal clock timing to bypass any required delays\n- the javascript backend contains all needed data... give agent max context! just sending screenshots is not helpful enough\n\nsent https://t.co/kj8DwkNY4r",
+      "author_id": "1946268642708230144",
+      "id": "2018670418270298570"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018781596154028138"
+      ],
+      "created_at": "2026-02-03T20:20:14.000Z",
+      "text": "it’s the best time ever to be a junior researcher with high ambition and slope regardless of what’s on your resume\n\nwe don’t really care about your publications or degrees or past employers\n\njust show us something that demonstrates taste, agency, and ability to execute",
+      "author_id": "3064259332",
+      "id": "2018781596154028138"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018645155268657373"
+      ],
+      "created_at": "2026-02-03T11:18:04.000Z",
+      "text": "si ma femme a se physique et une addiction a la cocaine faut voir cque jvai proposer hein. \"Oui oui cherie tkt on part a milan nn tkt pas la stup est dans mon cul ta t dose pr tt le voyage je tm\" https://t.co/ED1xN9jZr7",
+      "author_id": "977318752948809736",
+      "id": "2018645155268657373"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018582143518347525"
+      ],
+      "created_at": "2026-02-03T07:07:41.000Z",
+      "text": "This is all you need to know about him https://t.co/wnLJQ2eDEB https://t.co/6enY0yXrsA",
+      "author_id": "1243644593578491904",
+      "id": "2018582143518347525"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018690233525571926",
+        "2018690320335069618"
+      ],
+      "created_at": "2026-02-03T14:17:32.000Z",
+      "text": "RFS\n\nif you solve this I’ll fund your startup https://t.co/Y8J0Qsg8JO",
+      "author_id": "4128812789",
+      "id": "2018690320335069618"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018198022132519342"
+      ],
+      "created_at": "2026-02-02T05:41:19.000Z",
+      "text": "note to younger self: physics, math, history, psychology",
+      "author_id": "2188015574",
+      "id": "2018198022132519342"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2016328013970014714"
+      ],
+      "created_at": "2026-01-28T01:50:34.000Z",
+      "text": "I trained a diffusion world model to generate 2D games autoregressively! https://t.co/TVmlrlvgSd https://t.co/yoXZ2TsAxl",
+      "author_id": "729019130515329025",
+      "id": "2016328013970014714"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018417226895028414"
+      ],
+      "created_at": "2026-02-02T20:12:21.000Z",
+      "text": "Solve this in under 5 minutes and I’ll offer you $500k/year in cash plus several million in equity\n\nI'm building a Computer-Use team, goal is to use computers better than humans\n\nNo experience or PhD needed\n\nInstructions:\n1. Solve all 30 challenges on this website in under 5 https://t.co/CEZLhMR8mY",
+      "author_id": "3222018178",
+      "id": "2018417226895028414"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018441474837471286",
+        "2018441635508748473"
+      ],
+      "created_at": "2026-02-02T21:49:21.000Z",
+      "text": "We are hiring the best engineers on earth at @xai\n\nCome join us, the future is here \n\nDM me your best work :) https://t.co/dpRvRpD6I2",
+      "author_id": "1426304096441704455",
+      "id": "2018441635508748473"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018490221806162374"
+      ],
+      "created_at": "2026-02-03T01:02:25.000Z",
+      "text": "it took dinosaurs 50,000,000 years to become birds and it took us 300,000 years to make airplanes. at first it seems we're not THAT much faster than raw evolution (only 150x???) - but then remember we were landing on the moon and sending probes to Mars only 65 years later",
+      "author_id": "535358285",
+      "id": "2018490221806162374"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018490462789906670"
+      ],
+      "created_at": "2026-02-03T01:03:22.000Z",
+      "text": "@willdepue it's tough, money doesn't buy launch capacity, only time, and time is getting progressively more expensive",
+      "author_id": "535358285",
+      "id": "2018490462789906670"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018365491648294997"
+      ],
+      "created_at": "2026-02-02T16:46:47.000Z",
+      "text": "autistics were right again jar https://t.co/lZ8LT4ypR0",
+      "author_id": "41188903",
+      "id": "2018365491648294997"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018549120739520842"
+      ],
+      "created_at": "2026-02-03T04:56:27.000Z",
+      "text": "bro he was also working on TPUs and TF? this guy lived in the mirrorverse https://t.co/7gan3xGRCF",
+      "author_id": "1468428334610915329",
+      "id": "2018549120739520842"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018479525177557379"
+      ],
+      "created_at": "2026-02-03T00:19:54.000Z",
+      "text": "Someone asked about tricks for meeting eminent people. I said the best plan is just to do really good work. Then you'll tend to meet them organically. In the worst case you'll see one whenever you look in the mirror.",
+      "author_id": "183749519",
+      "id": "2018479525177557379"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018532922668757212"
+      ],
+      "created_at": "2026-02-03T03:52:05.000Z",
+      "text": "MRTESLA* × POKEEE\n\n*Martin Eberhard's Roadster https://t.co/CEm1vNKGUp",
+      "author_id": "851376801192587264",
+      "id": "2018532922668757212"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018543664310698309"
+      ],
+      "created_at": "2026-02-03T04:34:46.000Z",
+      "text": "Jane Street, RenTech, Two Sigma, and Citadel also really want you to start an AI hedge fund https://t.co/y5sDXfSprX",
+      "author_id": "444425425",
+      "id": "2018543664310698309"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018217939351269802"
+      ],
+      "created_at": "2026-02-02T07:00:28.000Z",
+      "text": "Neural networks explained https://t.co/HJyLKus1ea",
+      "author_id": "1263491240336769026",
+      "id": "2018217939351269802"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018246743003889944"
+      ],
+      "created_at": "2026-02-02T08:54:55.000Z",
+      "text": "I’m utterly blown away by this new audio in the Epstein Files. It shows the secret conversation you fear every high-level gov’t official might have with an outside fixer to hook them up the moment they “leave government to enter the private sector.”\n\nHere, Jeffrey Epstein teaches https://t.co/vGOLQk4HJL",
+      "author_id": "1599510806680535042",
+      "id": "2018246743003889944"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018471261639504049"
+      ],
+      "created_at": "2026-02-02T23:47:04.000Z",
+      "text": "mfw i see that single inferno guys linkedin https://t.co/FbgASy3vEr",
+      "author_id": "1771600890237198336",
+      "id": "2018471261639504049"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018441849887965194"
+      ],
+      "created_at": "2026-02-02T21:50:12.000Z",
+      "text": "come join the best company in the world @xai\n\nmy dms are open! https://t.co/SpdThmNbOC",
+      "author_id": "1596433997462048769",
+      "id": "2018441849887965194"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018445922485883055"
+      ],
+      "created_at": "2026-02-02T22:06:23.000Z",
+      "text": "so…who wants to work at xAI now https://t.co/Z3H8urvfDs",
+      "author_id": "1868775151443292160",
+      "id": "2018445922485883055"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018441619230568627"
+      ],
+      "created_at": "2026-02-02T21:49:17.000Z",
+      "text": "One Team 🚀\nhttps://t.co/8RWbk5jQIQ",
+      "author_id": "1661523610111193088",
+      "id": "2018441619230568627"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018439924345983190"
+      ],
+      "created_at": "2026-02-02T21:42:33.000Z",
+      "text": "Want to join the greatest company on earth?\n\nWe are hiring the best engineers in the world here at xAI. DM me a 1-liner of what makes you exceptional, i'd love to meet. https://t.co/BYyiNcoEQD",
+      "author_id": "3433971723",
+      "id": "2018439924345983190"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018362969025884282"
+      ],
+      "created_at": "2026-02-02T16:36:45.000Z",
+      "text": "Trajectory of The Looksmaxxer https://t.co/04eZeK9XqQ",
+      "author_id": "1381084704",
+      "id": "2018362969025884282"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018414125618282773"
+      ],
+      "created_at": "2026-02-02T20:00:02.000Z",
+      "text": "The way startups are built has shifted quickly.\n\nWe're excited about a range of startup ideas for AI-native companies that can now be built faster, cheaper, and with more ambition than ever.\n\nhttps://t.co/Ms3Vn5Vq7q https://t.co/uTCUqKViiI",
+      "author_id": "113130846",
+      "id": "2018414125618282773"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018323563414163476"
+      ],
+      "created_at": "2026-02-02T14:00:10.000Z",
+      "text": "It's only been one year since vibe coding was coined... https://t.co/pEvI85NgXD",
+      "author_id": "1380719534970040322",
+      "id": "2018323563414163476"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018337688202473501"
+      ],
+      "created_at": "2026-02-02T14:56:18.000Z",
+      "text": "Mark Zuckerberg started Facebook at 19.\n\nSteve Jobs started Apple at 21.\n\nEvan Spiegel started Snap at 21.\n\nYou are 24 and trying to build an AI agent to categorize your inbox.\n\nIt is too late.",
+      "author_id": "1158765074",
+      "id": "2018337688202473501"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018344770955850022"
+      ],
+      "created_at": "2026-02-02T15:24:27.000Z",
+      "text": "Genie by @GoogleDeepMind runs on 4x H100 GPUs (leaked from an internal presentation).\n\nWith this level of compute it achieves 24 fps with 720p.",
+      "author_id": "8721292",
+      "id": "2018344770955850022"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018378580615692526"
+      ],
+      "created_at": "2026-02-02T17:38:47.000Z",
+      "text": "We’re growing our team fast in San Francisco.\n\nYou’ll work directly with me and our customers across aerospace, robotics, and defense, helping turn real shop-floor problems into production software and models.\n\nWe’re hiring:\nSoftware Intern (full stack)\nML Intern\nSoftware",
+      "author_id": "1721372316712816640",
+      "id": "2018378580615692526"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018034987615002901"
+      ],
+      "created_at": "2026-02-01T18:53:28.000Z",
+      "text": "https://t.co/JOWhNIRxS3",
+      "author_id": "1396491776739905542",
+      "id": "2018034987615002901"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018219392757379374"
+      ],
+      "created_at": "2026-02-02T07:06:14.000Z",
+      "text": "people have very mixed opinions on hackathons. i’ve spoken to many people who think hackathons are not worth the time, or that the most “locked-in” cs students won’t want to spend a weekend attending one, or commit to 20 hours a week for multiple quarters (often more) to organize https://t.co/IHuieNCvZJ",
+      "author_id": "1864748690122117120",
+      "id": "2018219392757379374"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018247227760837045"
+      ],
+      "created_at": "2026-02-02T08:56:50.000Z",
+      "text": "I’ve joined @SakanaAILabs as a research intern 🐟🐡🐠  \nSuper excited to learn from incredible people here and hopefully contribute to some cool research!\n\nSakanaAIに研究インターンとしてジョインしました！かなり刺激的な環境でゴリゴリ研究していきます！",
+      "author_id": "1683112155552555009",
+      "id": "2018247227760837045"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018338627563212832"
+      ],
+      "created_at": "2026-02-02T15:00:02.000Z",
+      "text": "the terminal is quietly becoming one of the most interesting surfaces in interaction design\n\ni've been experimenting with what a personal website feels like when it lives in the terminal instead of a browser https://t.co/E3cySMyFRC",
+      "author_id": "14423969",
+      "id": "2018338627563212832"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018376029019034076"
+      ],
+      "created_at": "2026-02-02T17:28:39.000Z",
+      "text": "my cold email to @gdb https://t.co/YvusXPS7tP",
+      "author_id": "1590404517434114050",
+      "id": "2018376029019034076"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017981311806578999"
+      ],
+      "created_at": "2026-02-01T15:20:11.000Z",
+      "text": "what is it with third worlder obsession of having a servant https://t.co/qfngwNVbGb",
+      "author_id": "1894302336891457538",
+      "id": "2017981311806578999"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018361528626368916"
+      ],
+      "article": {
+        "title": "Kingmake yourself"
+      },
+      "created_at": "2026-02-02T16:31:02.000Z",
+      "text": "https://t.co/ySPfNSoGeN",
+      "author_id": "1375427123507249152",
+      "id": "2018361528626368916"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018350949782474835"
+      ],
+      "created_at": "2026-02-02T15:49:00.000Z",
+      "text": "got my whole genome sequenced and uploaded it to our research cluster where we've got a bunch of bioinformatics tools for claude code\n\nalso gave claude access to the nano banana API\n\n\"tell me what I look like based on my genome\"\n\nleft: high school me\nright: claude + NB output https://t.co/49WWa4YXsi",
+      "author_id": "1262555860582174727",
+      "id": "2018350949782474835"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018190471231853046",
+        "2018190591331574226"
+      ],
+      "created_at": "2026-02-02T05:11:47.000Z",
+      "text": "average person in silicon valley is not average lol \n\nencounter a seemingly normal abg and they have a phd from berkeley and research at anthropic and also nerd lookin guy from a state school that's randomly at 50 mil arr",
+      "author_id": "1758358257259646976",
+      "id": "2018190591331574226"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018155919419285643"
+      ],
+      "created_at": "2026-02-02T02:54:01.000Z",
+      "text": "https://t.co/FvLDrBatiZ https://t.co/yLSR3VwgKY",
+      "author_id": "1499830950104080390",
+      "id": "2018155919419285643"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018035287851704556"
+      ],
+      "article": {
+        "title": "The guide to getting a job with cold email"
+      },
+      "created_at": "2026-02-01T18:54:40.000Z",
+      "text": "https://t.co/Mvs8jX1KGV",
+      "author_id": "21714538",
+      "id": "2018035287851704556"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018107789512474738"
+      ],
+      "created_at": "2026-02-01T23:42:46.000Z",
+      "text": "i made a version of wikipedia you can doomscroll https://t.co/SNhdj9ukQF",
+      "author_id": "44606815",
+      "id": "2018107789512474738"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018157340701454341"
+      ],
+      "created_at": "2026-02-02T02:59:40.000Z",
+      "text": "\"You know when you hear a song it makes you feel a certain way.\n\nHow does it do that?\"\n\nJeffrey Epstein says music is a phenomena that humans don't fully understand https://t.co/E2nuXoPZfC",
+      "author_id": "1154630765012897792",
+      "id": "2018157340701454341"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018084857965113739"
+      ],
+      "created_at": "2026-02-01T22:11:38.000Z",
+      "text": "and hey! -- we're still looking for amazing hackathon judges!\n\njoin @rtwlz and @gabriel1 and judge the world's largest hackathon! on feb 15\n\ndm me if you've built awesome stuff, are big in tech, or think hackers would love to meet you https://t.co/3fy3hfSgXc",
+      "author_id": "1235989037938167808",
+      "id": "2018084857965113739"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018024052041163044"
+      ],
+      "created_at": "2026-02-01T18:10:01.000Z",
+      "text": "\"I think science and math are old fashioned.  \n\nUnfortunately people are taught they still have to learn algebra in school.\"\n\nJeffrey Epstein thinks the world is moving towards studying intuition and traditional maths and sciences are outdated https://t.co/wb5RRjHfme",
+      "author_id": "1154630765012897792",
+      "id": "2018024052041163044"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018035271246524824"
+      ],
+      "created_at": "2026-02-01T18:54:36.000Z",
+      "text": "\"I'm in a privileged position to have some of the world's smartest people come to my house and tell me what they think about different subjects.\n\nI realized the thing that they had most in common was no matter how smart they were,  when I asked them the questions, they said  I https://t.co/PRGgSr4ma0",
+      "author_id": "1154630765012897792",
+      "id": "2018035271246524824"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018056039027925317"
+      ],
+      "created_at": "2026-02-01T20:17:08.000Z",
+      "text": "Gesaffelstein arrives at the #GRAMMYs red carpet. https://t.co/Kvi7SXRUWQ",
+      "author_id": "1138458175663988738",
+      "id": "2018056039027925317"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018041522231603342"
+      ],
+      "created_at": "2026-02-01T19:19:26.000Z",
+      "text": "Referencing Leibniz, Jeffrey Epstein argues that the mind cannot be explained by material processes, and that the failure of physical science to account for consciousness and subjective phenomena points to the existence of a soul. \n\nFollow: @AFpost \nhttps://t.co/PNDrV1LA2q",
+      "author_id": "1622588070246641666",
+      "id": "2018041522231603342"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018036385824088498"
+      ],
+      "created_at": "2026-02-01T18:59:02.000Z",
+      "text": "\"One of the bad things to teach children is how to write.\n\nWriting forces you into a very narrow channel of thinking.\n\nSocrates, Plato and Aristotle never wrote anything\" \n\nJeffrey Epstein on how writing constrains thought https://t.co/62eRRh7Ajw",
+      "author_id": "1154630765012897792",
+      "id": "2018036385824088498"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018030934663049605"
+      ],
+      "created_at": "2026-02-01T18:37:22.000Z",
+      "text": "the goyim have gone insane https://t.co/ofCGypctDL",
+      "author_id": "1768708221764616192",
+      "id": "2018030934663049605"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017792562158047494"
+      ],
+      "created_at": "2026-02-01T02:50:10.000Z",
+      "text": "@ibuybooks goated",
+      "author_id": "1477442651863625730",
+      "id": "2017792562158047494"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017875873542635774"
+      ],
+      "created_at": "2026-02-01T08:21:13.000Z",
+      "text": "Jeffrey's is a red herring argument. A high-IQ White can be successful in the bush after just a few weeks of training, but a low-IQ bushman cannot become an IT expert after 20 years. https://t.co/vgeqVFPBDr",
+      "author_id": "1548273016143982594",
+      "id": "2017875873542635774"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017917072744063411"
+      ],
+      "created_at": "2026-02-01T11:04:55.000Z",
+      "text": "i am nor sure yet what genie 3 is for but ill be damned if i dont find out https://t.co/B5O0DW97KI",
+      "author_id": "1423560972959199235",
+      "id": "2017917072744063411"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2018037030811505047"
+      ],
+      "created_at": "2026-02-01T19:01:36.000Z",
+      "text": "https://t.co/c6Tsv8ozbH",
+      "author_id": "615818451",
+      "id": "2018037030811505047"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017908628108513535"
+      ],
+      "created_at": "2026-02-01T10:31:22.000Z",
+      "text": "Bro how can 2 screenshots carry THIS much knowledge\n\nDo yourself a favor and read the full github post Dr Karpathy made last night. Things they did to train nanochat. 🙏🏼 https://t.co/rrsBowQBnB",
+      "author_id": "1754194661084983296",
+      "id": "2017908628108513535"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017725260112572772"
+      ],
+      "created_at": "2026-01-31T22:22:44.000Z",
+      "text": "iykyk https://t.co/JqlnZTxiaK https://t.co/ndnU6cekSF",
+      "author_id": "1765421372090576896",
+      "id": "2017725260112572772"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017723140189659635"
+      ],
+      "created_at": "2026-01-31T22:14:18.000Z",
+      "text": "Insane, a day after Genie 3 there's already a Chinese open source competitor\n\nLingBot-World by Alibaba\n\nGenie 3 does 60 seconds, this does 10 minutes of stable interactive play https://t.co/X9DU9M58kP",
+      "author_id": "1577241403",
+      "id": "2017723140189659635"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017844930086101316"
+      ],
+      "created_at": "2026-02-01T06:18:15.000Z",
+      "text": "Research papers you must read for AI Engineer interviews -\n\n1. Attention is all you need (Transformers)\n2.  LoRA (Low rank adaption)\n3. PEFT ( Parameter Efficient Fine Tuning)\n4. VIT (Vision Transformers)\n5. VAE (Variational Auto Encoder)\n6. GANs ( Generative Adversarial",
+      "author_id": "1352565030378754049",
+      "id": "2017844930086101316"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017479930364498371"
+      ],
+      "created_at": "2026-01-31T06:07:53.000Z",
+      "text": "This is one of the most important studies in sleep science.\n\nVan Dongen et al. ran the experiment that changed how we understand chronic sleep restriction. They had subjects sleep 4h, 6h, or 8h nightly for 14 days, testing cognitive performance every 2 hours.\n\nThe 6h group’s https://t.co/d9X8qkEpOp",
+      "author_id": "101805159",
+      "id": "2017479930364498371"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017215115460788586"
+      ],
+      "created_at": "2026-01-30T12:35:36.000Z",
+      "text": "Repetitive negative thinking is associated with cognitive decline.\n\nRepetition rewires the brain. https://t.co/4l62mT13Ej",
+      "author_id": "1242989329472864256",
+      "id": "2017215115460788586"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017883277672206504"
+      ],
+      "created_at": "2026-02-01T08:50:38.000Z",
+      "text": "Amir Rischer (@AmirF15336) Is a fucking beast. \n\nHe’s only in high school 🤯 https://t.co/b86SPPV743",
+      "author_id": "4476288142",
+      "id": "2017883277672206504"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017704323652698426"
+      ],
+      "created_at": "2026-01-31T20:59:32.000Z",
+      "text": "Schopenhauer, 1810 (Göttingen student notebook):\n\n\"Today in the lecture hall the professor spoke for two hours on natural history; I noticed how most students yawned or copied mechanically, while I alone felt the urge to think beyond his words.\" https://t.co/TrVftk1a0k",
+      "author_id": "439103073",
+      "id": "2017704323652698426"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017783287289418078"
+      ],
+      "created_at": "2026-02-01T02:13:18.000Z",
+      "text": "https://t.co/5b5sBlQtqO",
+      "author_id": "1286692432072056832",
+      "id": "2017783287289418078"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017754894363451569"
+      ],
+      "created_at": "2026-02-01T00:20:29.000Z",
+      "text": "you behaved just like the goyim https://t.co/qObEt3toSY",
+      "author_id": "1431385986513125378",
+      "id": "2017754894363451569"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017769611064971581"
+      ],
+      "created_at": "2026-02-01T01:18:58.000Z",
+      "text": "hi! it seems Interact applications are out now and I’ve been enlisted to post about it haha\n\nI went to Interact in 2022, and I met people who became very important to me there — while I don’t agree with everything in the org, they are very thoughtful\n\nhttps://t.co/EFbTJEvxm7",
+      "author_id": "1402420722191024150",
+      "id": "2017769611064971581"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017710921234194518"
+      ],
+      "created_at": "2026-01-31T21:25:45.000Z",
+      "text": "Universities producing elite hard tech talent: \n\nGeorgia Tech\nCMU\nMIT\nMichigan\nCaltech\n\nWho did I miss?",
+      "author_id": "2953561054",
+      "id": "2017710921234194518"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2017687377691443431"
+      ],
+      "created_at": "2026-01-31T19:52:12.000Z",
+      "text": "my cold email to @chamath https://t.co/jo5sy8USyJ",
+      "author_id": "1590404517434114050",
+      "id": "2017687377691443431"
+    },
+    {
+      "id": "2017336221643772335",
+      "text": "Introducing Muse. \n\nAn AI agent for music composition, with a full multi-track MIDI editor and support for 50+ instruments. \n\nIt’s basically cursor for music. \n\nHere’s a demo: https://t.co/7hDldALsE5",
+      "author_id": "1430293188976201731",
+      "created_at": "2026-01-30T20:36:50.000Z",
+      "edit_history_tweet_ids": [
+        "2017336221643772335"
+      ]
+    },
+    {
+      "id": "2017431255030370406",
+      "text": "getting out more lately https://t.co/Km9eWmt05K",
+      "author_id": "1261374810254454784",
+      "created_at": "2026-01-31T02:54:27.000Z",
+      "edit_history_tweet_ids": [
+        "2017431255030370406"
+      ]
+    },
+    {
+      "id": "2017367124201947309",
+      "text": "The opportunity cost of low ambition has never been higher.\n\nSo be maximally ambitious. Otherwise there's no point.\n\nFounder Fellowship closes Sunday. https://t.co/Xq6AZgrCW4",
+      "author_id": "974861",
+      "created_at": "2026-01-30T22:39:37.000Z",
+      "edit_history_tweet_ids": [
+        "2017367124201947309"
+      ]
+    },
+    {
+      "id": "2017409796987883977",
+      "text": "Helping to put this on was incredibly fun! If you’re in the Bay Area you should consider coming to a Hamilton Society debate, they’re all a great time. https://t.co/z6hK26RPmC",
+      "author_id": "1354961500755152906",
+      "created_at": "2026-01-31T01:29:11.000Z",
+      "edit_history_tweet_ids": [
+        "2017409796987883977"
+      ]
+    },
+    {
+      "id": "2017387126661476504",
+      "text": "letting opus 4.5 make whatever music it wants\n\n\"Late Night Drive\" - D minor @ 88 BPM https://t.co/ZzqfA7MPHO",
+      "author_id": "1430293188976201731",
+      "created_at": "2026-01-30T23:59:06.000Z",
+      "edit_history_tweet_ids": [
+        "2017387126661476504"
+      ]
+    },
+    {
+      "id": "2017446577141649743",
+      "text": "The Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT) for major depression, delivering 90,000 TMS pulses over 5 days, has received FDA clearance. Our multicenter, double-blind sham-controlled trial showed it did not yield immediate remission or response after 5 https://t.co/6DXIVxhCRV",
+      "author_id": "2810627371",
+      "created_at": "2026-01-31T03:55:20.000Z",
+      "edit_history_tweet_ids": [
+        "2017441780615221407",
+        "2017442115299504404",
+        "2017442293179994345",
+        "2017444473890910364",
+        "2017446577141649743"
+      ]
+    },
+    {
+      "id": "2017260446886088784",
+      "text": "Spotify Summer Internship program for 2026 is open. There are roles across data science, machine learning, finance, marketing etc. \n\nFind out more &amp; apply here: https://t.co/PokBHIx7wh!",
+      "author_id": "353754885",
+      "created_at": "2026-01-30T15:35:44.000Z",
+      "edit_history_tweet_ids": [
+        "2017260446886088784"
+      ]
+    },
+    {
+      "id": "2017436678596833546",
+      "text": "This might be the most insane sponsor list of any hackathon ever. https://t.co/22ba4GkC0a",
+      "author_id": "1235989037938167808",
+      "created_at": "2026-01-31T03:16:00.000Z",
+      "edit_history_tweet_ids": [
+        "2017436678596833546"
+      ]
+    },
+    {
+      "id": "2017464361267220537",
+      "text": "FROM THE EPSTEIN FILES\n\nJeffrey Epstein sends Noam Chomsky a crackhead email https://t.co/yf5Aoux1jd",
+      "author_id": "735231724976738304",
+      "created_at": "2026-01-31T05:06:01.000Z",
+      "edit_history_tweet_ids": [
+        "2017464361267220537"
+      ]
+    },
+    {
+      "id": "2017297858911998034",
+      "text": "Our team at @GoogleDeepMind is hiring for multiple roles in AI+materials. 🚀\n\nWe‘re pursuing an ambitious research program in materials and are looking for the world‘s best\n\n- semiconductor experts \n- ml+materials researchers \n- lab automation engineers\n\nVibes are great, join us!",
+      "author_id": "926171983921991680",
+      "created_at": "2026-01-30T18:04:23.000Z",
+      "edit_history_tweet_ids": [
+        "2017297858911998034"
+      ]
+    },
+    {
+      "id": "2017284387365101854",
+      "article": {
+        "title": "How to win the talent war"
+      },
+      "text": "https://t.co/cD6Z1c98jm",
+      "author_id": "1242001682",
+      "created_at": "2026-01-30T17:10:51.000Z",
+      "edit_history_tweet_ids": [
+        "2017284387365101854"
+      ]
+    },
+    {
+      "id": "2017327153042571319",
+      "text": "timeline to von neumann probes filling the heavens getting very short https://t.co/6WVSgrJZ0b",
+      "author_id": "1460283925",
+      "created_at": "2026-01-30T20:00:48.000Z",
+      "edit_history_tweet_ids": [
+        "2017327153042571319"
+      ]
+    },
+    {
+      "id": "2017309966298960371",
+      "text": "We are hiring summer interns for 2026 in FAIR Seattle - to work on pre-training, compute/data efficient/sparse architectures, tokenizer-free pre-training, scaling-laws, distillation etc. \n\nIf this excites you, drop me a message/resume!",
+      "author_id": "499487546",
+      "created_at": "2026-01-30T18:52:30.000Z",
+      "edit_history_tweet_ids": [
+        "2017309966298960371"
+      ]
+    },
+    {
+      "id": "2016529628089954802",
+      "text": "Skipped a week of UMich to go to SF and it was 1000% worth it.\n\nMet YC founders, spent time at Powell Hacker House + The Residency, and saw what people my age are actually building.\n\nSome highlights:\n– Talked with @yasinbuilds about his goals and what he’s trying to build\n– Met https://t.co/zQMJ0uc3j3",
+      "author_id": "1633307236851146753",
+      "created_at": "2026-01-28T15:11:43.000Z",
+      "edit_history_tweet_ids": [
+        "2016529628089954802"
+      ]
+    },
+    {
+      "id": "2016986641362227355",
+      "text": "What is the archetype Palantir looks for in forward deployed engineers?\n\na16z's Erin Price-Wright asked Palantir Chief Architect Akshay Krishnaswamy:\n\n\"One is some sort of interesting cross-functional persona. Someone was a physicist, but now wants to do this.\"\n\n\"There’s a little https://t.co/CgfqLmnL6I https://t.co/NmiPmbAcWa",
+      "author_id": "64844802",
+      "created_at": "2026-01-29T21:27:43.000Z",
+      "edit_history_tweet_ids": [
+        "2016986641362227355"
+      ]
+    },
+    {
+      "id": "2017068850068541644",
+      "text": "if you can do all of these at the same time you're a top 0.1% athlete https://t.co/EUsOq1NwZH",
+      "author_id": "28979807",
+      "created_at": "2026-01-30T02:54:23.000Z",
+      "edit_history_tweet_ids": [
+        "2017068850068541644"
+      ]
+    },
+    {
+      "id": "2016539086517834150",
+      "text": "Bay Harbor Butcher mode &gt; Founder mode https://t.co/SfWLMTodKH",
+      "author_id": "1288018494638915584",
+      "created_at": "2026-01-28T15:49:18.000Z",
+      "edit_history_tweet_ids": [
+        "2016539086517834150"
+      ]
+    },
+    {
+      "id": "2017020017175330986",
+      "text": "I had magnesium before bed yesterday and this is literally what my dreams felt like https://t.co/ksxo4qoEiE",
+      "author_id": "415851343",
+      "created_at": "2026-01-29T23:40:21.000Z",
+      "edit_history_tweet_ids": [
+        "2017020017175330986"
+      ]
+    },
+    {
+      "id": "2017171791459090569",
+      "text": "allie is right\n\nGoogle just won my kids with this too\nthey’re stoked to try it.\n\nGoogle crushes it at winning kids as customers of their services. https://t.co/kYlW08NlNX",
+      "author_id": "920935903",
+      "created_at": "2026-01-30T09:43:26.000Z",
+      "edit_history_tweet_ids": [
+        "2017171791459090569"
+      ]
+    },
+    {
+      "id": "2017149410543915503",
+      "text": "https://t.co/xo8YhJt7np https://t.co/IZGWfYNFnc",
+      "author_id": "1215359862403584000",
+      "created_at": "2026-01-30T08:14:30.000Z",
+      "edit_history_tweet_ids": [
+        "2017149410543915503"
+      ]
+    },
+    {
+      "id": "2016759475190059304",
+      "text": "@willccbb lmao bruh we gotta get u dashboard access https://t.co/gpkGa2g81T",
+      "author_id": "1477442651863625730",
+      "created_at": "2026-01-29T06:25:03.000Z",
+      "edit_history_tweet_ids": [
+        "2016759475190059304"
+      ]
+    },
+    {
+      "id": "2017102599531737399",
+      "text": "Tag a friend! https://t.co/fSPeJ8DJ3Z https://t.co/bJl7mNzieH",
+      "author_id": "117233133",
+      "created_at": "2026-01-30T05:08:30.000Z",
+      "edit_history_tweet_ids": [
+        "2017102599531737399"
+      ]
+    },
+    {
+      "id": "2016599498424799616",
+      "text": "the best part about this project was that it took less than 6 days from start to finish -- from mass scraping tiktok videos via modal to post training kimi k2 1t with tinker to building the frontend/jobs/queues to handle inference\n\nblog: https://t.co/zIXrJ9wGEB https://t.co/8dHwcKK9Xy",
+      "author_id": "800117847774986240",
+      "created_at": "2026-01-28T19:49:21.000Z",
+      "edit_history_tweet_ids": [
+        "2016599498424799616"
+      ]
+    },
+    {
+      "id": "2016964133737115665",
+      "text": "i'll just answer it here: if you're interested in learning diffusion based generative models, i suggest you start with flow matching (most general) and then move towards its children like score-matching and then ddpm/ddim/edm like papers.\n\nalso, get your probability theory",
+      "author_id": "847088079781478404",
+      "created_at": "2026-01-29T19:58:17.000Z",
+      "edit_history_tweet_ids": [
+        "2016964133737115665"
+      ]
+    },
+    {
+      "id": "2016481431065887225",
+      "text": "Rosenhan was a Stanford psychologist who posed radical question:\n\n\"Could psychiatrists tell if someone was actually insane?\"\n\nTo find out, he did something unthinkable... https://t.co/8YWoXCvfGt",
+      "author_id": "1825866900670189569",
+      "created_at": "2026-01-28T12:00:12.000Z",
+      "edit_history_tweet_ids": [
+        "2016481431065887225"
+      ]
+    },
+    {
+      "id": "2014845061700149260",
+      "text": "Talking about the AI industry: \"The characters have various intentions—good, bad, mixed, confused—but the outcomes seem almost independent of them. The catastrophe happens not because anyone intended it but because the system had that catastrophe as its attractor.\" https://t.co/LmEHU14AgI",
+      "author_id": "1433223005371568128",
+      "created_at": "2026-01-23T23:37:51.000Z",
+      "edit_history_tweet_ids": [
+        "2014845061700149260"
+      ]
+    },
+    {
+      "id": "2016900262351258013",
+      "text": "Ramp has been hiring for Team A since the beginning  - great post by @ian_dot_so https://t.co/1TXvJeaBZ4 https://t.co/Zp72GvxOTl",
+      "author_id": "198835907",
+      "created_at": "2026-01-29T15:44:29.000Z",
+      "edit_history_tweet_ids": [
+        "2016900262351258013"
+      ]
+    },
+    {
+      "id": "2016662576495468984",
+      "text": "https://t.co/gQeOivqxpi",
+      "author_id": "483667737",
+      "created_at": "2026-01-29T00:00:00.000Z",
+      "edit_history_tweet_ids": [
+        "2016662576495468984"
+      ]
+    },
+    {
+      "id": "2017121993313952152",
+      "text": "by the time ur 35 you wont use this excuse\n\nyour kids will need the best opportunities\n\nyour parents will rely on you\n\na deadbeat is a deadbeat, regardless of circumstance\n\nwont matter the differences if you just turn out to be a bum either way\n\nso step the fuck up https://t.co/qKQWIUvumS",
+      "author_id": "962995275638898688",
+      "created_at": "2026-01-30T06:25:34.000Z",
+      "edit_history_tweet_ids": [
+        "2017121993313952152"
+      ]
+    },
+    {
+      "id": "2017032288203075603",
+      "text": "This year I set a goal of having 1 stranger interaction every day\n\nWhich led to meeting the person who designed Apple’s first MacBook. \n\nHere’s him telling me how Steve Jobs took inspiration from canon technology for the Mac computer chips. https://t.co/u19Zv2mytY",
+      "author_id": "1927908425939439617",
+      "created_at": "2026-01-30T00:29:06.000Z",
+      "edit_history_tweet_ids": [
+        "2017032288203075603"
+      ]
+    },
+    {
+      "id": "2016555537433833772",
+      "text": "Today, I tried to create a more traditional character  the kind you might imagine in an animated film\n\nI can picture her as a slightly clumsy and absent-minded florist, often getting scolded because of it, but with a very big heart  and she could also be quite a foodie\n\nAI tools https://t.co/AMox1WhtOC https://t.co/NtTgTz3ibm",
+      "author_id": "1611024668013510656",
+      "created_at": "2026-01-28T16:54:40.000Z",
+      "edit_history_tweet_ids": [
+        "2016555537433833772"
+      ]
+    },
+    {
+      "id": "2017093256241205350",
+      "text": "i had lunch at openai &amp; anthropic.\n\nthe vibes at both companies could not be more different.\n\npre served food (anthropic) vs self serve (openai). the way employees engaged with each other, it was much quieter at anthropic than openai. openai food quality &amp; coffee were better but https://t.co/oTiOkiAxgH",
+      "author_id": "1717671858521194496",
+      "created_at": "2026-01-30T04:31:22.000Z",
+      "edit_history_tweet_ids": [
+        "2017093256241205350"
+      ]
+    },
+    {
+      "id": "2016968991495823865",
+      "text": "If you’re even remotely interested in marketing, this is a must-read https://t.co/b4UkxoUKd5",
+      "author_id": "2188509068",
+      "created_at": "2026-01-29T20:17:35.000Z",
+      "edit_history_tweet_ids": [
+        "2016968991495823865"
+      ]
+    },
+    {
+      "id": "2016915239690739918",
+      "text": "https://t.co/urW6yeUivU",
+      "author_id": "1868075149775273984",
+      "created_at": "2026-01-29T16:44:00.000Z",
+      "edit_history_tweet_ids": [
+        "2016915239690739918"
+      ]
+    },
+    {
+      "id": "2016934993432616996",
+      "text": "i’ve always thought if you’re in university housing with free electricity, you have no excuse not to be running a neo-cloud or bitcoin mining operation out of your dorm.",
+      "author_id": "1760828182419369984",
+      "created_at": "2026-01-29T18:02:29.000Z",
+      "edit_history_tweet_ids": [
+        "2016931297923649747",
+        "2016934993432616996"
+      ]
+    },
+    {
+      "id": "2017032008958927119",
+      "text": "Genie 3 is absolutely insane. It took 15 seconds for Tyler to generate this 'video game' of a Maybach driving on the Nürburgring. https://t.co/ZcDBTPcdon",
+      "author_id": "1838288550569349120",
+      "created_at": "2026-01-30T00:28:00.000Z",
+      "edit_history_tweet_ids": [
+        "2017032008958927119"
+      ]
+    },
+    {
+      "id": "2017075595931471992",
+      "text": "the key to greatness in the 21st century is just this https://t.co/8Kz1GyTRyR",
+      "author_id": "998575387067142144",
+      "created_at": "2026-01-30T03:21:12.000Z",
+      "edit_history_tweet_ids": [
+        "2017075595931471992"
+      ]
+    },
+    {
+      "id": "2016694094999830969",
+      "text": "A prospect just returned my call in front of my parents. https://t.co/gsUybqH3ks",
+      "author_id": "3436825683",
+      "created_at": "2026-01-29T02:05:15.000Z",
+      "edit_history_tweet_ids": [
+        "2016694094999830969"
+      ]
+    },
+    {
+      "id": "2017028174052544665",
+      "text": "\"sf is dead\" we're throwing a robot fight club party tomorrow night! + food, drinks, good vibes\n\ni'm no @michelleefang but... partiful below! https://t.co/7trYNxywRF",
+      "author_id": "1316471712549011456",
+      "created_at": "2026-01-30T00:12:45.000Z",
+      "edit_history_tweet_ids": [
+        "2017028174052544665"
+      ]
+    },
+    {
+      "id": "2016970477546189028",
+      "text": "We got GenieA6 before we got GTA 6.\n\nGenie 3 is incredible. https://t.co/dZFDg6tN1w",
+      "author_id": "25667970",
+      "created_at": "2026-01-29T20:23:30.000Z",
+      "edit_history_tweet_ids": [
+        "2016970477546189028"
+      ]
+    },
+    {
+      "id": "2016957235721601504",
+      "text": "Genie 3 by Google AI Studio is absolutely incredible https://t.co/mbRhk0z29M",
+      "author_id": "1268982340090355712",
+      "created_at": "2026-01-29T19:30:52.000Z",
+      "edit_history_tweet_ids": [
+        "2016957235721601504"
+      ]
+    },
+    {
+      "id": "2016945908403917216",
+      "text": "Amazing, generated this image of sailing into New Amsterdam in 1650 \n\nNow going to try play it in Genie 😲 https://t.co/sj7RWS2kaL https://t.co/5FpYHFGYaZ",
+      "author_id": "1577241403",
+      "created_at": "2026-01-29T18:45:52.000Z",
+      "edit_history_tweet_ids": [
+        "2016945908403917216"
+      ]
+    },
+    {
+      "id": "2016788508627915023",
+      "text": "im returning to x. quitting posting gave me back high quality thought\n\nthe problem was that\n1) any thought could be an instant banger\n2) i felt need to 24/7 check virality/critique\n\nboth of these are solved by restricting myself to only posting once a week. see you on saturdays",
+      "author_id": "1101942551349731335",
+      "created_at": "2026-01-29T08:20:25.000Z",
+      "edit_history_tweet_ids": [
+        "2016788508627915023"
+      ]
+    },
+    {
+      "id": "2016897283011568075",
+      "text": "Epic post on \"Vitamin D &amp; Omega-3 have a larger effect on depression than antidepressants\"\n\nCurious what @bryan_johnson thinks! https://t.co/J2adXMySnv",
+      "author_id": "793023",
+      "created_at": "2026-01-29T15:32:39.000Z",
+      "edit_history_tweet_ids": [
+        "2016897283011568075"
+      ]
+    },
+    {
+      "id": "2016905086384177581",
+      "text": "Lee Kuan Yew on Jewish People!\n\nI’ve always wondered: why are the Jews so extraordinarily smart and why are the European Jews smarter than the Arab Jews? If you look at the Nobel Prize winners, they tend to be Ashkenazi Jews, not Sephardi Jews. (I was reading a book called The",
+      "author_id": "1701196249956024320",
+      "created_at": "2026-01-29T16:03:39.000Z",
+      "edit_history_tweet_ids": [
+        "2016905086384177581"
+      ]
+    },
+    {
+      "id": "2016901255797301632",
+      "text": "@EvanYadegari Instead of optimizing for\n\nProfit per paying user * number of paying users\n\nOptimize for\n\nProfit per paying user * (number of paying users)^n where n&gt;1\n\nDetermining whether your n = 1.05 or 1.5 is the hard part",
+      "author_id": "1589334828704571394",
+      "created_at": "2026-01-29T15:48:26.000Z",
+      "edit_history_tweet_ids": [
+        "2016901255797301632"
+      ]
+    },
+    {
+      "id": "2016935538989687214",
+      "text": "https://t.co/s4mZXsfQsH https://t.co/zmWlotOiSL",
+      "author_id": "1986343996445368323",
+      "created_at": "2026-01-29T18:04:40.000Z",
+      "edit_history_tweet_ids": [
+        "2016935538989687214"
+      ]
+    },
+    {
+      "id": "2016538003985015281",
+      "text": "btw we're hiring\n\nkrea . ai / careers https://t.co/sFRrdojYHT",
+      "author_id": "1022404082",
+      "created_at": "2026-01-28T15:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2016538003985015281"
+      ]
+    },
+    {
+      "id": "2016959063699906740",
+      "text": "Wow. \n\nJust made my first AI video game with Google’s Genie 3\n\nThe prompt: “French woman has to climb through a word that defies logic, flying objects everywhere”\n\nIs it the end of the gaming industry? https://t.co/X7tG7sECJ9 https://t.co/xmH9MIubGs",
+      "author_id": "1126991699815882753",
+      "created_at": "2026-01-29T19:38:08.000Z",
+      "edit_history_tweet_ids": [
+        "2016959063699906740"
+      ]
+    },
+    {
+      "id": "2016795138618789915",
+      "text": "The Social Network screening! https://t.co/ldeWhIr556",
+      "author_id": "1367301",
+      "created_at": "2026-01-29T08:46:45.000Z",
+      "edit_history_tweet_ids": [
+        "2016795138618789915"
+      ]
+    },
+    {
+      "id": "2016880339315281951",
+      "text": "This is either incorrect or is not a filter for good people just for people who cant do math lol https://t.co/qsHOxGe6gh",
+      "author_id": "1365020011123773442",
+      "created_at": "2026-01-29T14:25:19.000Z",
+      "edit_history_tweet_ids": [
+        "2016880339315281951"
+      ]
+    },
+    {
+      "id": "2016740123946471567",
+      "text": "RL environments https://t.co/C4loflARTf",
+      "author_id": "312479100",
+      "created_at": "2026-01-29T05:08:09.000Z",
+      "edit_history_tweet_ids": [
+        "2016740123946471567"
+      ]
+    },
+    {
+      "id": "2016654311615582486",
+      "text": "great people do great things. when hiring, we look for whether someone has done anything wildly impressive. if someone's impressive once, they tend to be impressive again https://t.co/m1hmL5vug6",
+      "author_id": "929930489032355840",
+      "created_at": "2026-01-28T23:27:10.000Z",
+      "edit_history_tweet_ids": [
+        "2016654311615582486"
+      ]
+    },
+    {
+      "id": "2016693882919047223",
+      "text": "https://t.co/lvFPHUeS5v",
+      "author_id": "829771721410486272",
+      "created_at": "2026-01-29T02:04:24.000Z",
+      "edit_history_tweet_ids": [
+        "2016693882919047223"
+      ]
+    },
+    {
+      "id": "2016600776240427072",
+      "text": "I've interviewed hundreds of people in the last 5 months and hired 7 (hiring more now)\n\nthe bar is on the ground, it's so easy to be 99% better than everyone\n\nIf you want to stand out in a job application process, here's three stupidly easy things you should do immediately:",
+      "author_id": "1611451855107661835",
+      "created_at": "2026-01-28T19:54:26.000Z",
+      "edit_history_tweet_ids": [
+        "2016600776240427072"
+      ]
+    },
+    {
+      "id": "2016591086840664169",
+      "text": "Welcome to the team! https://t.co/z83LSvLzL4",
+      "author_id": "3433971723",
+      "created_at": "2026-01-28T19:15:56.000Z",
+      "edit_history_tweet_ids": [
+        "2016591086840664169"
+      ]
+    },
+    {
+      "id": "2016287581269365095",
+      "text": "How it felt to buy an avocado in the mid 2010s https://t.co/hLtM8vSa9O https://t.co/322lX1gIgC",
+      "author_id": "1761161502877200384",
+      "created_at": "2026-01-27T23:09:54.000Z",
+      "edit_history_tweet_ids": [
+        "2016287581269365095"
+      ]
+    },
+    {
+      "id": "2016566953398485357",
+      "text": "Introducing: Soon. A new media company covering the machines, minds, and subcultures of tech's new frontier.\n\nHere's a preview of what's to come. Our first documentary, featuring never-before-seen access to @RainmakerCorp's weather modification tech, drops Friday. https://t.co/vXiYaH9abL",
+      "author_id": "2015503071821066240",
+      "created_at": "2026-01-28T17:40:02.000Z",
+      "edit_history_tweet_ids": [
+        "2016566953398485357"
+      ]
+    },
+    {
+      "id": "2016605722432139411",
+      "text": "https://t.co/YcN5s2wQ9c",
+      "author_id": "1339909347925778433",
+      "created_at": "2026-01-28T20:14:05.000Z",
+      "edit_history_tweet_ids": [
+        "2016605722432139411"
+      ]
+    },
+    {
+      "id": "2016581380986011997",
+      "text": "Welcome @mehtaab_sawhney ! Pretty excited to see where we will end the year in the terms of AI capabilities for math. https://t.co/RPDOM41Sfy",
+      "author_id": "452384386",
+      "created_at": "2026-01-28T18:37:22.000Z",
+      "edit_history_tweet_ids": [
+        "2016581380986011997"
+      ]
+    },
+    {
+      "id": "2016366372784369843",
+      "text": "you can still use this cold mail template btw https://t.co/4IHzlQk675",
+      "author_id": "1791534089998114816",
+      "created_at": "2026-01-28T04:23:00.000Z",
+      "edit_history_tweet_ids": [
+        "2016366372784369843"
+      ]
+    },
+    {
+      "id": "2016016873851371704",
+      "text": "Poverty, ignorance, and stasis are the default state of man.\n\nWealth, knowledge, and progress require the freedom to create.",
+      "author_id": "1305522374876381186",
+      "created_at": "2026-01-27T05:14:13.000Z",
+      "edit_history_tweet_ids": [
+        "2016016873851371704"
+      ]
+    },
+    {
+      "id": "2016287005379067935",
+      "text": "A self-taught “high school dropout” @gabriel1 ends up at @OpenAI Researcher. The new “degree” is proof-of-work 💼\n\nIn 2026, anyone can learn to do AI research by starting small.\nI’m curating a mini tutorial series on the most fundamental but underrated frontier-lab P0 task:",
+      "author_id": "1108371504394321921",
+      "created_at": "2026-01-27T23:07:37.000Z",
+      "edit_history_tweet_ids": [
+        "2016287005379067935"
+      ]
+    },
+    {
+      "id": "2016366049206403389",
+      "text": "there is solved intelligence in video generative models your goal is to extract it https://t.co/DGY43CHxiG",
+      "author_id": "1281265455735296001",
+      "created_at": "2026-01-28T04:21:43.000Z",
+      "edit_history_tweet_ids": [
+        "2016365974619074690",
+        "2016366049206403389"
+      ]
+    },
+    {
+      "id": "2016553226490024299",
+      "text": "I've recently gone on leave from Columbia to join OpenAI, working on OpenAI for Science. Over the past few months, AI-including GPT 5.2-has become an increasingly important part of my workflow as a mathematician. I'm excited to contribute to efforts to accelerate progress in",
+      "author_id": "1439593949392424961",
+      "created_at": "2026-01-28T16:45:29.000Z",
+      "edit_history_tweet_ids": [
+        "2016553226490024299"
+      ]
+    },
+    {
+      "id": "2016568450047483971",
+      "text": "“Get the fucking money” https://t.co/xBYAoHxHYX https://t.co/Q3Ys7gLF3B",
+      "author_id": "1468981136466616330",
+      "created_at": "2026-01-28T17:45:59.000Z",
+      "edit_history_tweet_ids": [
+        "2016568450047483971"
+      ]
+    },
+    {
+      "id": "2016547063564300500",
+      "text": "@ anyone\n\nDM me if u need help with (literally) anything.\n\nI'm really grateful that many people have helped me and I try to pay it forward as best I can.\n\nPls don't pitch me anything. Just be genuine lol and I’ll help where I can.",
+      "author_id": "1280647664221077504",
+      "created_at": "2026-01-28T16:21:00.000Z",
+      "edit_history_tweet_ids": [
+        "2016547063564300500"
+      ]
+    },
+    {
+      "id": "2016407672057221133",
+      "text": "i've been around here for like 1.5 years and during that period i've witnessed:\n@aidan_mclau -&gt; @OpenAI\n@kalomaze -&gt; @PrimeIntellect\n@willccbb -&gt; @PrimeIntellect \n@stochasticchasm -&gt; @arcee_ai \n@ariaurelium -&gt; @arcee_ai \n@omouamoua -&gt; @PrimeIntellect\n@hallerite -&gt; @PrimeIntellect",
+      "author_id": "1816016743762124800",
+      "created_at": "2026-01-28T07:07:06.000Z",
+      "edit_history_tweet_ids": [
+        "2016407672057221133"
+      ]
+    },
+    {
+      "id": "2016301976431010237",
+      "text": "I just realized now why it’s called trinity https://t.co/XPAmW9MYzY",
+      "author_id": "1080908329289961472",
+      "created_at": "2026-01-28T00:07:06.000Z",
+      "edit_history_tweet_ids": [
+        "2016301976431010237"
+      ]
+    },
+    {
+      "id": "2016230599871131803",
+      "text": "One takeaway for engineers who want to get into AI research is to curate your Twitter/X feed\n\nIf you're looking for a good starting point you can dig through @nimit_sohoni's following list for people who are plugged into the ML paper space https://t.co/9ZreYAmDAh https://t.co/6v5f9MG5G0",
+      "author_id": "835285522968788992",
+      "created_at": "2026-01-27T19:23:29.000Z",
+      "edit_history_tweet_ids": [
+        "2016230599871131803"
+      ]
+    },
+    {
+      "id": "2016327761724608749",
+      "text": "Extremely happy to share that I’ve joined  @OpenAI to work on Codex!\n\nI like it up here, there’s a little garden with fruit trees, herbs, Swiss Chard etc. https://t.co/reNybjkGNQ",
+      "author_id": "1897157727895609345",
+      "created_at": "2026-01-28T01:49:34.000Z",
+      "edit_history_tweet_ids": [
+        "2016327761724608749"
+      ]
+    },
+    {
+      "id": "2016234172671762913",
+      "text": "Happy 21st birthday to our intern @tylercosgrove 🎉\n\nWe let him have his first sip of alcohol on today’s show https://t.co/XtR3AFRCkr",
+      "author_id": "1838288550569349120",
+      "created_at": "2026-01-27T19:37:41.000Z",
+      "edit_history_tweet_ids": [
+        "2016234172671762913"
+      ]
+    },
+    {
+      "id": "2016246654211342374",
+      "text": "https://t.co/OmfrmsQ5YX https://t.co/ddgfOrklfD",
+      "author_id": "1883684566667522048",
+      "created_at": "2026-01-27T20:27:17.000Z",
+      "edit_history_tweet_ids": [
+        "2016246654211342374"
+      ]
+    },
+    {
+      "id": "2015955983344816539",
+      "text": "We were discussing how much disk space we needed and of the engineers said his estimate was “conservative”. I don’t want any of that partisan crap so I fired him on the spot. https://t.co/pcK7MRmQkp",
+      "author_id": "1191207924",
+      "created_at": "2026-01-27T01:12:15.000Z",
+      "edit_history_tweet_ids": [
+        "2015955983344816539"
+      ]
+    },
+    {
+      "id": "2015977793713209395",
+      "text": "I asked @sama if he angel invests\n\nhe said he respects the hustle https://t.co/aLpzwtTAQQ",
+      "author_id": "1934608034979889152",
+      "created_at": "2026-01-27T02:38:55.000Z",
+      "edit_history_tweet_ids": [
+        "2015977793713209395"
+      ]
+    },
+    {
+      "id": "2016076026133029228",
+      "text": "Sam Altman: hey, we gotta talk about some of the training you've been doing\n\nOpenAI researcher: what about it?\n\nSam: GPT constantly uses these phrases—\n\nR: Like what?\n\nSam: Well, there's a bunch, I mean, could we mayb—\n\nR: Want me to redo the training data? Just say the word.",
+      "author_id": "414333187",
+      "created_at": "2026-01-27T09:09:16.000Z",
+      "edit_history_tweet_ids": [
+        "2016076026133029228"
+      ]
+    },
+    {
+      "id": "2015947233829740818",
+      "text": "We're looking for more amazing judges for TreeHacks 🌲\n\njoin @rtwlz and @gabriel1 in judging the world's largest hackathon! if you've built notable projects, a major company, journalist, creator, etc\n\nDM me a sentence why hackers would love to meet you/why you'd like to judge! https://t.co/db4B4Jb7Sz",
+      "author_id": "1235989037938167808",
+      "created_at": "2026-01-27T00:37:29.000Z",
+      "edit_history_tweet_ids": [
+        "2015947233829740818"
+      ]
+    },
+    {
+      "id": "2015640618479878214",
+      "text": "Reminds me of this subplot in a @slatestarcodex story:\n\n“So how’s your startup doing?”\n\n“Pretty good. I’m a founder at Condemnr. Maybe you’ve heard of us?”\n\n“Actually no. Tell me about it.”\n\n“Lots of people are tripped up by not condemning enough things. Imagine that you want to https://t.co/pCJI5Cj8wK",
+      "author_id": "14730936",
+      "created_at": "2026-01-26T04:19:06.000Z",
+      "edit_history_tweet_ids": [
+        "2015640618479878214"
+      ]
+    },
+    {
+      "id": "2015658260007920095",
+      "text": "On Scott Adams.\n\nA man finds, to his astonishment, that he exists. After the elation of childhood wears off, he asks, who am I, why am I here, how does this work? These are hard questions, so after a brief struggle, he selects a readymade answer and goes about the motions of",
+      "author_id": "745273",
+      "created_at": "2026-01-26T05:29:12.000Z",
+      "edit_history_tweet_ids": [
+        "2015658260007920095"
+      ]
+    },
+    {
+      "id": "2015586827160498523",
+      "text": "NEW: English actor Will Poulter says it’s really upsetting that the United States has forgotten that “we're a country that we have immigrants to thank for,” according to Variety. \n\n“It's really upsetting to see people forget that we’re a country that we have immigrants to thank https://t.co/OJtxT5mUzU",
+      "author_id": "890061634181373952",
+      "created_at": "2026-01-26T00:45:22.000Z",
+      "edit_history_tweet_ids": [
+        "2015586827160498523"
+      ]
+    },
+    {
+      "id": "2015844433737220550",
+      "text": "If someone told you “too early for us,” we might agree… And still invest. $250k–$500k into early teams.\nDMs open. https://t.co/749gwNTvAW",
+      "author_id": "1544485220",
+      "created_at": "2026-01-26T17:49:00.000Z",
+      "edit_history_tweet_ids": [
+        "2015844433737220550"
+      ]
+    },
+    {
+      "id": "2015658290420535679",
+      "text": "i really genuinely hate these people dawg. every single subject i am actually familiar with, they butcher it. they know nothing. they don’t even know how illiterate they are. nuke SF and do it now. https://t.co/jYR81tvUSa https://t.co/5JUgPntasS",
+      "author_id": "1711603780649672704",
+      "created_at": "2026-01-26T05:29:20.000Z",
+      "edit_history_tweet_ids": [
+        "2015658290420535679"
+      ]
+    },
+    {
+      "id": "2015644869503705459",
+      "text": "what https://t.co/1JGdoU66ol",
+      "author_id": "1083839805467832320",
+      "created_at": "2026-01-26T04:36:00.000Z",
+      "edit_history_tweet_ids": [
+        "2015644869503705459"
+      ]
+    },
+    {
+      "id": "2015342181347885358",
+      "text": "This photo of Steve Jobs at home with nothing but his Tiffany lamp holds incredible power over the San Franciscoid subconscious, even if they don’t know it. https://t.co/fNcFaq04wm https://t.co/SwbnWlyk8D",
+      "author_id": "1545302240344231937",
+      "created_at": "2026-01-25T08:33:13.000Z",
+      "edit_history_tweet_ids": [
+        "2015342181347885358"
+      ]
+    },
+    {
+      "id": "2015176634219876576",
+      "text": "Life update: I’m now at @GoogleDeepMind\n\nFeels surreal to not be at @hume_ai anymore, but the team there is in an incredible position to continue advancing cutting edge voice AI research.\n\nThere are changes coming in how people interact with AI. There are changes coming in how",
+      "author_id": "3012814327",
+      "created_at": "2026-01-24T21:35:24.000Z",
+      "edit_history_tweet_ids": [
+        "2015176634219876576"
+      ]
+    },
+    {
+      "id": "2015221227070120309",
+      "text": "Unpopular opinion but I feel like Billie Eilish should be considered a duo rather than a soloist cause Finneas be doing 80% of the work for her https://t.co/q0UN315LiP",
+      "author_id": "1845233170263793674",
+      "created_at": "2026-01-25T00:32:36.000Z",
+      "edit_history_tweet_ids": [
+        "2015221227070120309"
+      ]
+    },
+    {
+      "id": "2015434349114450402",
+      "text": "The moral high ground doesn’t hit as hard when your guy is Donald Trump. https://t.co/psIC5zZm9I",
+      "author_id": "1604229320741978117",
+      "created_at": "2026-01-25T14:39:28.000Z",
+      "edit_history_tweet_ids": [
+        "2015434349114450402"
+      ]
+    },
+    {
+      "id": "2015059671644848530",
+      "text": "Steve Jobs on startup hustle:                                                      \n                                                                                                      \n\"One of the things I don't see is, I don't see it myself, I don't see it in enough of the https://t.co/zBZnEKIaoy",
+      "author_id": "1395663964369952768",
+      "created_at": "2026-01-24T13:50:38.000Z",
+      "edit_history_tweet_ids": [
+        "2015059671644848530"
+      ]
+    },
+    {
+      "id": "2014863863951548835",
+      "text": "If you are interested in building an AI Scientist, I strongly encourage you to apply to Google DeepMind. While vibe coding and papering a demo is easy, creating a true AI Scientist requires decades of rigorous science and engineering and a large team of great culture—it is a https://t.co/9IymWiZJtw",
+      "author_id": "747212842470891520",
+      "created_at": "2026-01-24T00:52:34.000Z",
+      "edit_history_tweet_ids": [
+        "2014863863951548835"
+      ]
+    },
+    {
+      "id": "2014929158237786348",
+      "text": "hmm sometimes i do think about this considering the time we are in right now with how fast and good technology is getting idk if doing school for another 3 years is worth it https://t.co/5u2Mk6Lz0X",
+      "author_id": "1883684566667522048",
+      "created_at": "2026-01-24T05:12:01.000Z",
+      "edit_history_tweet_ids": [
+        "2014929078474707139",
+        "2014929158237786348"
+      ]
+    },
+    {
+      "id": "2014830856817270902",
+      "text": "&gt; starts an internet design agency, ends up getting some vc funding\n\n&gt; Canadian (gross)\n\n&gt; shit eating grin\n\n&gt; convinces investors he’s going to make the \"Berkshire of the internet\" by taking pics with Charlie Munger and using big-brain quotes in his letters\n\n&gt; acquires 35+ https://t.co/7LT545J5Sj",
+      "author_id": "2012597873456582658",
+      "created_at": "2026-01-23T22:41:24.000Z",
+      "edit_history_tweet_ids": [
+        "2014830656690241835",
+        "2014830856817270902"
+      ]
+    },
+    {
+      "id": "2014921372959416713",
+      "text": "https://t.co/UTb12nCxO2",
+      "author_id": "242480017",
+      "created_at": "2026-01-24T04:41:05.000Z",
+      "edit_history_tweet_ids": [
+        "2014921372959416713"
+      ]
+    },
+    {
+      "id": "2015063687384670616",
+      "text": "anthropic's phone screen question\n\ntry it out https://t.co/1Xc8KmYVns",
+      "author_id": "1778031890043400192",
+      "created_at": "2026-01-24T14:06:35.000Z",
+      "edit_history_tweet_ids": [
+        "2015063687384670616"
+      ]
+    },
+    {
+      "id": "2014844733693239402",
+      "text": "20% day over day growth \n$1,985 created for freshmen selling swipes\n$4,125 saved for upperclassmen on meals\n400,000+ views across Berkeley media  \n\nAll in just 15 days of operation  \n\nThis is the story of UBerk Eats. https://t.co/8yIi1tFxOH https://t.co/crxigZlbpO",
+      "author_id": "1465069420414447628",
+      "created_at": "2026-01-23T23:36:33.000Z",
+      "edit_history_tweet_ids": [
+        "2014844733693239402"
+      ]
+    },
+    {
+      "id": "2014656815745941787",
+      "text": "Bro is literally me https://t.co/29WBDALvNP",
+      "author_id": "1977947928540168192",
+      "created_at": "2026-01-23T11:09:50.000Z",
+      "edit_history_tweet_ids": [
+        "2014656815745941787"
+      ]
+    },
+    {
+      "id": "1814677401051320796",
+      "text": "Question the blob narrative https://t.co/BZR9OxF0ZR",
+      "author_id": "44196397",
+      "created_at": "2024-07-20T15:03:02.000Z",
+      "edit_history_tweet_ids": [
+        "1814677401051320796"
+      ]
+    },
+    {
+      "id": "2014596760019337455",
+      "text": "watching this tony robbins interview rn and dude the charisma on that guy is just a sight to behold",
+      "author_id": "38584928",
+      "created_at": "2026-01-23T07:11:11.000Z",
+      "edit_history_tweet_ids": [
+        "2014596760019337455"
+      ]
+    },
+    {
+      "id": "2014338117537570994",
+      "text": "https://t.co/JJswQcoUPK",
+      "author_id": "1837517288196698112",
+      "created_at": "2026-01-22T14:03:26.000Z",
+      "edit_history_tweet_ids": [
+        "2014338117537570994"
+      ]
+    },
+    {
+      "id": "2014481431330717750",
+      "text": "The world belongs to the high energy https://t.co/zrxA5jqptX",
+      "author_id": "1898096148080214019",
+      "created_at": "2026-01-22T23:32:55.000Z",
+      "edit_history_tweet_ids": [
+        "2014481431330717750"
+      ]
     }
   ],
-  "meta": {
-    "result_count": 4,
-    "next_token": "7140dibdnow9c7btw4b1zcelqxp7uh0inmyjcb87azcxc"
+  "includes": {
+    "users": [
+      {
+        "id": "240008974",
+        "name": "Greg Kamradt",
+        "username": "GregKamradt"
+      },
+      {
+        "id": "1487649061717123076",
+        "name": "Epic Clip Vault",
+        "username": "EpicClipVault"
+      },
+      {
+        "id": "1932454145199570944",
+        "name": "mitsuri",
+        "username": "0xmitsurii"
+      },
+      {
+        "id": "369777416",
+        "name": "Jerry Liu",
+        "username": "jerryjliu0"
+      },
+      {
+        "id": "1937254069040717824",
+        "name": "josh",
+        "username": "qtzx06"
+      },
+      {
+        "id": "1973831180958224384",
+        "name": "ryun",
+        "username": "ryanxani"
+      },
+      {
+        "id": "2933752790",
+        "name": "rahul",
+        "username": "rahulgs"
+      },
+      {
+        "id": "15656406",
+        "name": "Anna Tong",
+        "username": "annatonger"
+      },
+      {
+        "id": "2503070893",
+        "name": "\"Leigh Marie\" Braswell",
+        "username": "LM_Braswell"
+      },
+      {
+        "id": "1092374611",
+        "name": "Iain Dunning",
+        "username": "iaindunning"
+      },
+      {
+        "id": "92561391",
+        "name": "Michael R. Bock",
+        "username": "michaelrbock"
+      },
+      {
+        "id": "1261374810254454784",
+        "name": "Aidan McLaughlin",
+        "username": "aidan_mclau"
+      },
+      {
+        "id": "1458535891375427584",
+        "name": "J",
+        "username": "JungianPeater"
+      },
+      {
+        "id": "39125788",
+        "name": "Ethan Mollick",
+        "username": "emollick"
+      },
+      {
+        "id": "1675888265835040768",
+        "name": "ₕₐₘₚₜₒₙ",
+        "username": "hamptonism"
+      },
+      {
+        "id": "61344715",
+        "name": "ben",
+        "username": "benhylak"
+      },
+      {
+        "id": "1614879930885574656",
+        "name": "SMX 🇺🇸",
+        "username": "iam_smx"
+      },
+      {
+        "id": "2309465642",
+        "name": "Jason Zhao",
+        "username": "jasonzhao"
+      },
+      {
+        "id": "535358285",
+        "name": "David",
+        "username": "DavidSHolz"
+      },
+      {
+        "id": "183749519",
+        "name": "Paul Graham",
+        "username": "paulg"
+      },
+      {
+        "id": "28612255",
+        "name": "Aaron Epstein",
+        "username": "aaron_epstein"
+      },
+      {
+        "id": "1184092367952977921",
+        "name": "Kevin Lin",
+        "username": "quasicoh"
+      },
+      {
+        "id": "887406091457318912",
+        "name": "Zoox",
+        "username": "zoox"
+      },
+      {
+        "id": "3958998014",
+        "name": "Oramen",
+        "username": "oramensan"
+      },
+      {
+        "id": "998575387067142144",
+        "name": "will depue",
+        "username": "willdepue"
+      },
+      {
+        "id": "9085062",
+        "name": "Hubert Thieblot",
+        "username": "hthieblot"
+      },
+      {
+        "id": "847088079781478404",
+        "name": "eigenron",
+        "username": "eigenron"
+      },
+      {
+        "id": "1556550048862928898",
+        "name": "Beff (e/acc)",
+        "username": "beffjezos"
+      },
+      {
+        "id": "3222018178",
+        "name": "Brett Adcock",
+        "username": "adcock_brett"
+      },
+      {
+        "id": "3098251212",
+        "name": "VibenBeach",
+        "username": "VibenBeach"
+      },
+      {
+        "id": "2598018877",
+        "name": "Mads",
+        "username": "MadsPosting"
+      },
+      {
+        "id": "1764772387600379904",
+        "name": "BasedBiohacker",
+        "username": "BasedBiohacker"
+      },
+      {
+        "id": "1458943027079176204",
+        "name": "Skitzo",
+        "username": "theskitzo_"
+      },
+      {
+        "id": "2013733275194552320",
+        "name": "opal",
+        "username": "opalbotgg"
+      },
+      {
+        "id": "1946268642708230144",
+        "name": "cbanman",
+        "username": "cbanman2000"
+      },
+      {
+        "id": "3064259332",
+        "name": "will brown",
+        "username": "willccbb"
+      },
+      {
+        "id": "977318752948809736",
+        "name": "Kolean",
+        "username": "Kolean_v2"
+      },
+      {
+        "id": "1243644593578491904",
+        "name": "Hench D. Kunt🥛",
+        "username": "Chad_Hominem_"
+      },
+      {
+        "id": "4128812789",
+        "name": "Ankit Gupta",
+        "username": "agupta"
+      },
+      {
+        "id": "2188015574",
+        "name": "Chaitu",
+        "username": "chaitu"
+      },
+      {
+        "id": "729019130515329025",
+        "name": "Shobhit Agarwal",
+        "username": "shoagarwal"
+      },
+      {
+        "id": "1426304096441704455",
+        "name": "Eden Chan",
+        "username": "edenchan"
+      },
+      {
+        "id": "41188903",
+        "name": "Max",
+        "username": "minordissent"
+      },
+      {
+        "id": "1468428334610915329",
+        "name": "toucan",
+        "username": "distributionat"
+      },
+      {
+        "id": "851376801192587264",
+        "name": "Marvin von Hagen",
+        "username": "marvinvonhagen"
+      },
+      {
+        "id": "444425425",
+        "name": "Hersh Desai",
+        "username": "Hersh_Desai"
+      },
+      {
+        "id": "1263491240336769026",
+        "name": "Whole Mars Catalog",
+        "username": "wholemars"
+      },
+      {
+        "id": "1599510806680535042",
+        "name": "Mike Benz",
+        "username": "MikeBenzCyber"
+      },
+      {
+        "id": "1771600890237198336",
+        "name": "sky",
+        "username": "skydotcs"
+      },
+      {
+        "id": "1596433997462048769",
+        "name": "ishan deshpande",
+        "username": "ishand"
+      },
+      {
+        "id": "1868775151443292160",
+        "name": "Benedict",
+        "username": "xbxnxdxcxtx"
+      },
+      {
+        "id": "1661523610111193088",
+        "name": "xAI",
+        "username": "xai"
+      },
+      {
+        "id": "3433971723",
+        "name": "Umesh Khanna 🇨🇦🇺🇸",
+        "username": "forwarddeploy"
+      },
+      {
+        "id": "1381084704",
+        "name": "Gossip Goblin",
+        "username": "Gossip_Goblin"
+      },
+      {
+        "id": "113130846",
+        "name": "Y Combinator",
+        "username": "ycombinator"
+      },
+      {
+        "id": "1380719534970040322",
+        "name": "Alex Albert",
+        "username": "alexalbert__"
+      },
+      {
+        "id": "1158765074",
+        "name": "Nick Abraham",
+        "username": "NickAbraham12"
+      },
+      {
+        "id": "8721292",
+        "name": "Mark Kretschmann",
+        "username": "mark_k"
+      },
+      {
+        "id": "1721372316712816640",
+        "name": "Nick Khormaei",
+        "username": "nkhormaei"
+      },
+      {
+        "id": "1396491776739905542",
+        "name": "Internal Tech Emails",
+        "username": "TechEmails"
+      },
+      {
+        "id": "1864748690122117120",
+        "name": "Emily Han",
+        "username": "emilyhanyf"
+      },
+      {
+        "id": "1683112155552555009",
+        "name": "Kotaro Yoshida",
+        "username": "katoro13___"
+      },
+      {
+        "id": "14423969",
+        "name": "Zach Krall",
+        "username": "zachkrall"
+      },
+      {
+        "id": "1590404517434114050",
+        "name": "Monty Anderson",
+        "username": "monty10x"
+      },
+      {
+        "id": "1894302336891457538",
+        "name": "miritsua",
+        "username": "m1ritsua"
+      },
+      {
+        "id": "1375427123507249152",
+        "name": "Yasser",
+        "username": "yasser_elsaid_"
+      },
+      {
+        "id": "1262555860582174727",
+        "name": "mark bissell",
+        "username": "MarkMBissell"
+      },
+      {
+        "id": "1758358257259646976",
+        "name": "jia",
+        "username": "jia_seed"
+      },
+      {
+        "id": "1499830950104080390",
+        "name": "saila (in nyc)",
+        "username": "sailaunderscore"
+      },
+      {
+        "id": "21714538",
+        "name": "Ben Lang",
+        "username": "benln"
+      },
+      {
+        "id": "44606815",
+        "name": "Rebane",
+        "username": "rebane2001"
+      },
+      {
+        "id": "1154630765012897792",
+        "name": "Red Panda Koala",
+        "username": "RedPandaKoala"
+      },
+      {
+        "id": "1235989037938167808",
+        "name": "Thijs",
+        "username": "cdngdev"
+      },
+      {
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "username": "PopBase"
+      },
+      {
+        "id": "1622588070246641666",
+        "name": "AF Post",
+        "username": "AFpost"
+      },
+      {
+        "id": "1768708221764616192",
+        "name": "taoki",
+        "username": "justalexoki"
+      },
+      {
+        "id": "1477442651863625730",
+        "name": "Manveer",
+        "username": "manveerxyz"
+      },
+      {
+        "id": "1548273016143982594",
+        "name": "Johannes M. Koenraadt",
+        "username": "johannesmkx"
+      },
+      {
+        "id": "1423560972959199235",
+        "name": "lumps",
+        "username": "lumpenspace"
+      },
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "username": "alexandr_wang"
+      },
+      {
+        "id": "1754194661084983296",
+        "name": "AVB",
+        "username": "neural_avb"
+      },
+      {
+        "id": "1765421372090576896",
+        "name": "technology sista (aspiring)",
+        "username": "typeclonghouse"
+      },
+      {
+        "id": "1577241403",
+        "name": "@levelsio",
+        "username": "levelsio"
+      },
+      {
+        "id": "1352565030378754049",
+        "name": "atul",
+        "username": "atullchaurasia"
+      },
+      {
+        "id": "101805159",
+        "name": "Aakash Gupta",
+        "username": "aakashgupta"
+      },
+      {
+        "id": "1242989329472864256",
+        "name": "Nicholas Fabiano, MD",
+        "username": "NTFabiano"
+      },
+      {
+        "id": "4476288142",
+        "name": "Rich",
+        "username": "richzou"
+      },
+      {
+        "id": "439103073",
+        "name": "poodle's gaze",
+        "username": "peplumtop"
+      },
+      {
+        "id": "1286692432072056832",
+        "name": "Ethan Lipnik",
+        "username": "EthanLipnik"
+      },
+      {
+        "id": "1431385986513125378",
+        "name": "ocr",
+        "username": "onchainrapist"
+      },
+      {
+        "id": "1402420722191024150",
+        "name": "Eric Zhang",
+        "username": "ekzhang1"
+      },
+      {
+        "id": "2953561054",
+        "name": "Erik Bruckner",
+        "username": "E_Bruxxx"
+      },
+      {
+        "id": "1430293188976201731",
+        "name": "Jake",
+        "username": "jakemclain_"
+      },
+      {
+        "id": "974861",
+        "name": "Aditya Agarwal",
+        "username": "adityaag"
+      },
+      {
+        "id": "1354961500755152906",
+        "name": "Zoomer Alcibiades",
+        "username": "HellenicVibes"
+      },
+      {
+        "id": "2810627371",
+        "name": "Hesheng Liu",
+        "username": "hesheng3"
+      },
+      {
+        "id": "353754885",
+        "name": "Zainab 🐊",
+        "username": "zizzycarter"
+      },
+      {
+        "id": "735231724976738304",
+        "name": "𝙂𝙐𝙈𝘽𝙔",
+        "username": "gumby4christ"
+      },
+      {
+        "id": "926171983921991680",
+        "name": "Simon Batzner",
+        "username": "simonbatzner"
+      },
+      {
+        "id": "1242001682",
+        "name": "Kushal Byatnal",
+        "username": "kushalbyatnal"
+      },
+      {
+        "id": "1460283925",
+        "name": "roon",
+        "username": "tszzl"
+      },
+      {
+        "id": "499487546",
+        "name": "Srini Iyer",
+        "username": "sriniiyer88"
+      },
+      {
+        "id": "1633307236851146753",
+        "name": "Jainam Patel",
+        "username": "JainamBlueprint"
+      },
+      {
+        "id": "64844802",
+        "name": "a16z",
+        "username": "a16z"
+      },
+      {
+        "id": "28979807",
+        "name": "the Rich",
+        "username": "Duderichy"
+      },
+      {
+        "id": "1288018494638915584",
+        "name": "xulipa",
+        "username": "_xulipa"
+      },
+      {
+        "id": "415851343",
+        "name": "indie",
+        "username": "INDIEWASHERE"
+      },
+      {
+        "id": "920935903",
+        "name": "britton winterrose",
+        "username": "Winterrose"
+      },
+      {
+        "id": "1215359862403584000",
+        "name": "stacy 🌤",
+        "username": "voidshapes"
+      },
+      {
+        "id": "117233133",
+        "name": "Horace He",
+        "username": "cHHillee"
+      },
+      {
+        "id": "800117847774986240",
+        "name": "Surya Dantuluri",
+        "username": "sdand"
+      },
+      {
+        "id": "1825866900670189569",
+        "name": "Big Brain Psychology",
+        "username": "BigBrainPsych"
+      },
+      {
+        "id": "1433223005371568128",
+        "name": "carl feynman",
+        "username": "carl_feynman"
+      },
+      {
+        "id": "198835907",
+        "name": "Veeral Patel",
+        "username": "vral"
+      },
+      {
+        "id": "483667737",
+        "name": "Edits That Goes Hard 🔥",
+        "username": "EditsGoesHard"
+      },
+      {
+        "id": "962995275638898688",
+        "name": "jpark",
+        "username": "jparkjmc"
+      },
+      {
+        "id": "1927908425939439617",
+        "name": "Sid",
+        "username": "SidHaldar_"
+      },
+      {
+        "id": "1611024668013510656",
+        "name": "Anima",
+        "username": "Anima_Labs"
+      },
+      {
+        "id": "1717671858521194496",
+        "name": "signüll",
+        "username": "signulll"
+      },
+      {
+        "id": "2188509068",
+        "name": "Matthew Kobach",
+        "username": "mkobach"
+      },
+      {
+        "id": "1868075149775273984",
+        "name": "twocents",
+        "username": "twocents"
+      },
+      {
+        "id": "1760828182419369984",
+        "name": "Dylan Mitic",
+        "username": "DylanMitic"
+      },
+      {
+        "id": "1838288550569349120",
+        "name": "TBPN",
+        "username": "tbpn"
+      },
+      {
+        "id": "3436825683",
+        "name": "Rook ♜",
+        "username": "RooktoRep"
+      },
+      {
+        "id": "1316471712549011456",
+        "name": "andrew gao",
+        "username": "itsandrewgao"
+      },
+      {
+        "id": "25667970",
+        "name": "Ammaar Reshi",
+        "username": "ammaar"
+      },
+      {
+        "id": "1268982340090355712",
+        "name": "vas",
+        "username": "vasuman"
+      },
+      {
+        "id": "1101942551349731335",
+        "name": "gabriel",
+        "username": "gabriel1"
+      },
+      {
+        "id": "793023",
+        "name": "Suhail",
+        "username": "Suhail"
+      },
+      {
+        "id": "1701196249956024320",
+        "name": "Lee Kuan Yew Geopolitics!",
+        "username": "LKYMM23"
+      },
+      {
+        "id": "1589334828704571394",
+        "name": "Blake Anderson",
+        "username": "blakeandersonw"
+      },
+      {
+        "id": "1986343996445368323",
+        "name": "haris",
+        "username": "haris_chc"
+      },
+      {
+        "id": "1022404082",
+        "name": "vicc",
+        "username": "viccpoes"
+      },
+      {
+        "id": "1126991699815882753",
+        "name": "Slazac 🇪🇺 🇺🇦 🇹🇼 🌐",
+        "username": "TrueSlazac"
+      },
+      {
+        "id": "1367301",
+        "name": "Cory Levy",
+        "username": "cory"
+      },
+      {
+        "id": "1365020011123773442",
+        "name": "Teknium (e/λ)",
+        "username": "Teknium"
+      },
+      {
+        "id": "312479100",
+        "name": "David Lieb",
+        "username": "dflieb"
+      },
+      {
+        "id": "929930489032355840",
+        "name": "Max Marchione",
+        "username": "maxmarchione"
+      },
+      {
+        "id": "829771721410486272",
+        "name": "Darth Erogenous",
+        "username": "darth_erogenous"
+      },
+      {
+        "id": "1611451855107661835",
+        "name": "Zane Hengsperger",
+        "username": "zanehengsperger"
+      },
+      {
+        "id": "1761161502877200384",
+        "name": "Moongazer",
+        "username": "joeybeastmarket"
+      },
+      {
+        "id": "2015503071821066240",
+        "name": "Soon",
+        "username": "soontechnology"
+      },
+      {
+        "id": "1339909347925778433",
+        "name": "Quartr",
+        "username": "Quartr_App"
+      },
+      {
+        "id": "452384386",
+        "name": "Sebastien Bubeck",
+        "username": "SebastienBubeck"
+      },
+      {
+        "id": "1791534089998114816",
+        "name": "spidey",
+        "username": "lochan_twt"
+      },
+      {
+        "id": "1305522374876381186",
+        "name": "Arjun Khemani",
+        "username": "arjunkhemani"
+      },
+      {
+        "id": "1108371504394321921",
+        "name": "Amber Liu",
+        "username": "JIACHENLIU8"
+      },
+      {
+        "id": "1281265455735296001",
+        "name": "atharva ☆",
+        "username": "k7agar"
+      },
+      {
+        "id": "1439593949392424961",
+        "name": "Mehtaab Sawhney",
+        "username": "mehtaab_sawhney"
+      },
+      {
+        "id": "1468981136466616330",
+        "name": "Finding Compounders",
+        "username": "F_Compounders"
+      },
+      {
+        "id": "1280647664221077504",
+        "name": "Ethan Lim @ NeurIPS",
+        "username": "ethanlim"
+      },
+      {
+        "id": "1816016743762124800",
+        "name": "davinci",
+        "username": "leothecurious"
+      },
+      {
+        "id": "1080908329289961472",
+        "name": "Yacine Mahdid",
+        "username": "yacinelearning"
+      },
+      {
+        "id": "835285522968788992",
+        "name": "Ryan Peterman",
+        "username": "ryanlpeterman"
+      },
+      {
+        "id": "1897157727895609345",
+        "name": "Francis Greenleaf",
+        "username": "inferencetoken"
+      },
+      {
+        "id": "1883684566667522048",
+        "name": "nic",
+        "username": "nicholaschen__"
+      },
+      {
+        "id": "1191207924",
+        "name": "Erik Bernhardsson",
+        "username": "bernhardsson"
+      },
+      {
+        "id": "1934608034979889152",
+        "name": "Dan",
+        "username": "aidaniil"
+      },
+      {
+        "id": "414333187",
+        "name": "Thorsten Ball",
+        "username": "thorstenball"
+      },
+      {
+        "id": "14730936",
+        "name": "Jacques",
+        "username": "JacquesThibs"
+      },
+      {
+        "id": "745273",
+        "name": "Naval",
+        "username": "naval"
+      },
+      {
+        "id": "890061634181373952",
+        "name": "Collin Rugg",
+        "username": "CollinRugg"
+      },
+      {
+        "id": "1544485220",
+        "name": "Brett Calhoun",
+        "username": "brettcalhounn"
+      },
+      {
+        "id": "1711603780649672704",
+        "name": "netsky remix",
+        "username": "iron_redux"
+      },
+      {
+        "id": "1083839805467832320",
+        "name": "Arjun Panickssery",
+        "username": "panickssery"
+      },
+      {
+        "id": "1545302240344231937",
+        "name": "gabe",
+        "username": "allgarbled"
+      },
+      {
+        "id": "3012814327",
+        "name": "Alan Cowen",
+        "username": "AlanCowen"
+      },
+      {
+        "id": "1845233170263793674",
+        "name": "Transleytanked",
+        "username": "transleytanked"
+      },
+      {
+        "id": "1604229320741978117",
+        "name": "Destiny Updates",
+        "username": "DestiDarko"
+      },
+      {
+        "id": "1395663964369952768",
+        "name": "Founder Mode",
+        "username": "Founder_Mode_"
+      },
+      {
+        "id": "747212842470891520",
+        "name": "Shane Gu",
+        "username": "shaneguML"
+      },
+      {
+        "id": "2012597873456582658",
+        "name": "Discounted Trash Flow",
+        "username": "DiscountedTr"
+      },
+      {
+        "id": "242480017",
+        "name": "naomi",
+        "username": "lachancenaomi27"
+      },
+      {
+        "id": "1778031890043400192",
+        "name": "neural nets.",
+        "username": "cneuralnetwork"
+      },
+      {
+        "id": "1465069420414447628",
+        "name": "Caden Li",
+        "username": "cadenbuild"
+      },
+      {
+        "id": "1977947928540168192",
+        "name": "Bucky 〆",
+        "username": "_hasansnow"
+      },
+      {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "username": "elonmusk"
+      },
+      {
+        "id": "38584928",
+        "name": "du",
+        "username": "thedulab"
+      },
+      {
+        "id": "1837517288196698112",
+        "name": "Love Classical Music and Movies 🎺🎻💖🎥🎬",
+        "username": "AlexTran677026"
+      },
+      {
+        "id": "1898096148080214019",
+        "name": "Achilles",
+        "username": "WraithOptic"
+      }
+    ]
   }
 }

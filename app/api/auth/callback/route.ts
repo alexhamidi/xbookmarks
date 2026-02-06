@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { X_CONFIG } from '@/app/lib/config';
 import { getBasicAuthHeader } from '@/app/lib/oauth';
-import { writeFile } from 'fs/promises';
-import path from 'path';
+
 
 export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
@@ -60,29 +59,14 @@ export async function GET(request: NextRequest) {
         const userData = await userResponse.json();
         const userId = userData.data?.id;
 
-        // Fetch the user's most recent 4 bookmarks
-        if (userId) {
-            try {
-                const bookmarksRes = await fetch(
-                    `https://api.twitter.com/2/users/${userId}/bookmarks?max_results=4&tweet.fields=created_at,author_id,text`,
-                    { headers: { 'Authorization': `Bearer ${tokens.access_token}` } }
-                );
-                if (bookmarksRes.ok) {
-                    const bookmarksData = await bookmarksRes.json();
-                    const fileContent = {
-                        lastSynced: new Date().toISOString(),
-                        ...bookmarksData
-                    };
-                    const filePath = path.join(process.cwd(), 'data', 'bookmarks.json');
-                    await writeFile(filePath, JSON.stringify(fileContent, null, 2), 'utf-8');
-                }
-            } catch (e) {
-                console.error('Failed to fetch bookmarks:', e);
-            }
-        }
+        // Write tokens to file for debugging
+        const { writeFile: wf } = await import('fs/promises');
+        const p = await import('path');
+        await wf(p.default.join(process.cwd(), 'data', 'tokens.json'), JSON.stringify({ access_token: tokens.access_token, userId: userData.data?.id }, null, 2), 'utf-8');
 
         const res = NextResponse.redirect(new URL('/', request.url));
         res.cookies.set('user_session', JSON.stringify(userData), { httpOnly: false, path: '/' });
+        res.cookies.set('access_token', tokens.access_token, { httpOnly: true, path: '/', secure: true });
 
         // Clear oauth cookies
         res.cookies.delete('oauth_state');

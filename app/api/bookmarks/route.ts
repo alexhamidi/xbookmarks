@@ -8,6 +8,6 @@ export async function GET() {
         const data = await readFile(filePath, 'utf-8');
         return NextResponse.json(JSON.parse(data));
     } catch {
-        return NextResponse.json({ data: null }, { status: 404 });
+        return NextResponse.json({ data: null });
     }
 }
