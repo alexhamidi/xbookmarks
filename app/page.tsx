@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { useChat } from '@ai-sdk/react';
+import { DefaultChatTransport } from 'ai';
 import { Toaster, toast } from 'sonner';
 
 function parseRefs(text: string): { cleanText: string; tweetIds: string[] } {
@@ -53,7 +54,15 @@ export default function Home() {
   const [bookmarks, setBookmarks] = useState<any>(null);
   const [bookmarksLoading, setBookmarksLoading] = useState(false);
   const [syncStatus, setSyncStatus] = useState('');
-  const { messages, sendMessage, setMessages, status } = useChat({ id: 'main' });
+  const bookmarksRef = useRef<any>(null);
+  const transport = useRef(new DefaultChatTransport({
+    api: '/api/chat',
+    body: () => ({ bookmarks: bookmarksRef.current?.data }),
+  }));
+  const { messages, sendMessage, setMessages, status } = useChat({
+    id: 'main',
+    transport: transport.current,
+  });
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -88,9 +97,18 @@ export default function Home() {
     if (!user) return;
     try {
       const saved = localStorage.getItem('bookmarks');
-      if (saved) setBookmarks(JSON.parse(saved));
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        setBookmarks(parsed);
+        bookmarksRef.current = parsed;
+      }
     } catch { }
   }, [user]);
+
+  // Keep bookmarksRef in sync
+  useEffect(() => {
+    bookmarksRef.current = bookmarks;
+  }, [bookmarks]);
 
   const attemptSync = async (): Promise<{ rateLimited: boolean }> => {
     const res = await fetch('/api/bookmarks/sync', { method: 'POST' });
