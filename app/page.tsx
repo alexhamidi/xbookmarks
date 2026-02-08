@@ -83,13 +83,13 @@ export default function Home() {
     setAuthChecked(true);
   }, []);
 
-  // Load cached bookmarks on login
+  // Load cached bookmarks from localStorage
   useEffect(() => {
     if (!user) return;
-    fetch('/api/bookmarks')
-      .then((res) => res.json())
-      .then((data) => { if (data?.data) setBookmarks(data); })
-      .catch(() => { });
+    try {
+      const saved = localStorage.getItem('bookmarks');
+      if (saved) setBookmarks(JSON.parse(saved));
+    } catch { }
   }, [user]);
 
   const attemptSync = async (): Promise<{ rateLimited: boolean }> => {
@@ -124,7 +124,9 @@ export default function Home() {
         }
 
         if (msg.done) {
-          setBookmarks(msg);
+          const bookmarkData = { lastSynced: msg.lastSynced, data: msg.data, includes: msg.includes };
+          setBookmarks(bookmarkData);
+          localStorage.setItem('bookmarks', JSON.stringify(bookmarkData));
           toast.success(`Synced ${msg.data?.length ?? 0} bookmarks`);
         }
       }

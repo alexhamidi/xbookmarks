@@ -1,6 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { writeFile } from 'fs/promises';
-import path from 'path';
 
 const MAX_BOOKMARKS = 500;
 const BASE_URL = 'https://api.twitter.com/2/users';
@@ -67,16 +65,13 @@ export async function POST(request: NextRequest) {
                     if (!paginationToken || !page.data?.length) break;
                 }
 
-                const fileContent = {
+                const result = {
                     lastSynced: new Date().toISOString(),
                     data: allTweets,
                     includes: { users: allUsers },
                 };
 
-                const filePath = path.join(process.cwd(), 'data', 'bookmarks.json');
-                await writeFile(filePath, JSON.stringify(fileContent, null, 2), 'utf-8');
-
-                controller.enqueue(encoder.encode(JSON.stringify({ done: true, ...fileContent }) + '\n'));
+                controller.enqueue(encoder.encode(JSON.stringify({ done: true, ...result }) + '\n'));
                 controller.close();
             } catch (e: any) {
                 controller.enqueue(encoder.encode(JSON.stringify({ error: e.message }) + '\n'));

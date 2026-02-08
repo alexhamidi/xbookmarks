@@ -57,12 +57,6 @@ export async function GET(request: NextRequest) {
         }
 
         const userData = await userResponse.json();
-        const userId = userData.data?.id;
-
-        // Write tokens to file for debugging
-        const { writeFile: wf } = await import('fs/promises');
-        const p = await import('path');
-        await wf(p.default.join(process.cwd(), 'data', 'tokens.json'), JSON.stringify({ access_token: tokens.access_token, userId: userData.data?.id }, null, 2), 'utf-8');
 
         const res = NextResponse.redirect(new URL('/', request.url));
         res.cookies.set('user_session', JSON.stringify(userData), { httpOnly: false, path: '/' });
